@@ -1,0 +1,702 @@
+[
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus rhythm, Possible right atrial abnormality, Borderline ECG",
+        "ecg_path": "files/p1000/p10000032/s40689238/40689238",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus rhythm, Possible right atrial abnormality, Borderline ECG",
+        "ecg_path": "files/p1000/p10000032/s44458630/44458630",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus tachycardia, Normal ECG except for rate",
+        "ecg_path": "files/p1000/p10000032/s49036311/49036311",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Provide me with the report of this ECG.",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10000117/s45090959/45090959",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me the report of this ECG.",
+        "answer": "Report: Sinus rhythm",
+        "ecg_path": "files/p1000/p10000117/s48446569/48446569",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Could you send me the ECG report?",
+        "answer": "Report: Sinus rhythm",
+        "ecg_path": "files/p1000/p10000285/s42709053/42709053",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please generate a report for the ECG below.",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10000560/s41445586/41445586",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus rhythm, rSr'(V1) - probable normal variant, Low QRS voltages in precordial leads, Borderline ECG",
+        "ecg_path": "files/p1000/p10000560/s42695383/42695383",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Can you share the report of the following ECG?",
+        "answer": "Report: Sinus rhythm with PAC(s)., Borderline ECG",
+        "ecg_path": "files/p1000/p10000635/s40067704/40067704",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me the report of this ECG.",
+        "answer": "Report: Sinus rhythm, Extensive T wave changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000635/s45386375/45386375",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please provide the report for the following ECG.",
+        "answer": "Report: Sinus bradycardia, Left ventricular hypertrophy, Extensive T wave changes may be due to hypertrophy and/or ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000635/s43522917/43522917",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please generate a report for the ECG below.",
+        "answer": "Report: Sinus rhythm, Abnormal R-wave progression, early transition, Left ventricular hypertrophy, Nonspecific T abnormalities, diffuse leads, Prolonged QT interval",
+        "ecg_path": "files/p1000/p10000635/s44095784/44095784",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Provide me with the report of this ECG.",
+        "answer": "Report: Sinus bradycardia with interpolated PVC(s), Extensive ST-T changes are nonspecific, Borderline ECG",
+        "ecg_path": "files/p1000/p10000635/s42947358/42947358",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Can you share the report of the following ECG?",
+        "answer": "Report: Sinus bradycardia., Possible left ventricular hypertrophy, Extensive T wave changes are probably due to ventricular hypertrophy, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000635/s48339811/48339811",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me the report of this ECG.",
+        "answer": "Report: CONSIDER ACUTE ST ELEVATION MI, Sinus rhythm with borderline 1st degree A-V block, Inferior ST elevation, CONSIDER ACUTE INFARCT, ST junctional depression is nonspecific, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000764/s47218930/47218930",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Can you share the report of the following ECG?",
+        "answer": "Report: Sinus tachycardia, Prolonged QT interval, Possible anterior infarct - age undetermined, Lateral ST-T changes suggest myocardial injury/ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000764/s44069449/44069449",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Could you send me the ECG report?",
+        "answer": "Report: Sinus tachycardia, Possible anterior infarct - age undetermined, Inferior/lateral ST-T changes suggest myocardial injury/ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000764/s44837313/44837313",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Provide me with the report of this ECG.",
+        "answer": "Report: SINUS RHYTHM, PREMATURE VENTRICULAR CONTRACTION(S), FIRST DEGREE A-V BLOCK, Extensive ST-T changes, ABNORMAL CHANGES POSSIBLY DUE TO MYOCARDIAL ISCHEMIA, Summary: ABNORMAL ECG",
+        "ecg_path": "files/p1000/p10000764/s40539087/40539087",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I’d like to receive the report for this ECG.",
+        "answer": "Report: Sinus rhythm with PVC(s) with borderline 1st degree A-V block, Possible anterior infarct - age undetermined, Lateral ST-T changes are nonspecific, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000764/s43681375/43681375",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10000826/s40695233/40695233",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please generate a report for the ECG below.",
+        "answer": "Report: Sinus tachycardia, Anterior T wave changes are borderline abnormal, Low QRS voltages in precordial leads, Borderline ECG",
+        "ecg_path": "files/p1000/p10000826/s40894787/40894787",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10000898/s44986768/44986768",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus rhythm, Low QRS voltages in precordial leads, Borderline ECG",
+        "ecg_path": "files/p1000/p10000898/s46049322/46049322",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10000898/s48575806/48575806",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I need a report on the following ECG.",
+        "answer": "Report: Sinus rhythm., Poor R wave progression - probable normal variant, Inferior T wave changes are nonspecific, Borderline ECG",
+        "ecg_path": "files/p1000/p10000898/s42413061/42413061",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me the report of this ECG.",
+        "answer": "Report: CONSIDER ACUTE ST ELEVATION MI, Sinus rhythm, Lateral ST elevation, CONSIDER ACUTE INFARCT, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000898/s43492795/43492795",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please provide the report for the following ECG.",
+        "answer": "Report: Sinus rhythm, Low QRS voltages in precordial leads, Borderline ECG",
+        "ecg_path": "files/p1000/p10000898/s40746075/40746075",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I’d like to receive the report for this ECG.",
+        "answer": "Report: Sinus rhythm, Anterior T wave changes are nonspecific, Borderline ECG",
+        "ecg_path": "files/p1000/p10000935/s41557927/41557927",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me the report of this ECG.",
+        "answer": "Report: Sinus tachycardia, Normal ECG except for rate",
+        "ecg_path": "files/p1000/p10000935/s48142435/48142435",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10000935/s45594411/45594411",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus tachycardia, Possible anterior infarct - age undetermined, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000935/s41798696/41798696",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Provide me with the report of this ECG.",
+        "answer": "Report: Sinus tachycardia, Anterior T wave changes are nonspecific, Borderline ECG",
+        "ecg_path": "files/p1000/p10000935/s40761639/40761639",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus tachycardia, Inferior and anterior T wave changes are nonspecific, Borderline ECG",
+        "ecg_path": "files/p1000/p10000935/s48582094/48582094",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Atrial fibrillation with PVC(s) or aberrant ventricular conduction., Left ventricular hypertrophy, Inferior/lateral ST-T changes are probably due to ventricular hypertrophy, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s46642833/46642833",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I need a report on the following ECG.",
+        "answer": "Report: Sinus rhythm., Leftward axis, rSr'(V1) - probable normal variant, Cannot rule out anterior infarct - age undetermined, Possible left ventricular hypertrophy, Inferior/lateral ST-T changes are probably due to ventricular hypertrophy, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s42742896/42742896",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please generate a report for the ECG below.",
+        "answer": "Report: Sinus bradycardia, Possible anterior infarct - age undetermined, Inferior/lateral ST-T changes may be due to myocardial ischemia, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s40742173/40742173",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Could you send me the ECG report?",
+        "answer": "Report: Sinus rhythm with PVC(s), Possible anterior infarct - age undetermined, Inferior/lateral ST-T changes may be due to myocardial ischemia, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s47499371/47499371",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Can you share the report of the following ECG?",
+        "answer": "Report: Sinus bradycardia with sinus arrhythmia, Prolonged QT interval, Possible septal infarct - age undetermined, Inferior/lateral ST-T changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s42546971/42546971",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Can you share the report of the following ECG?",
+        "answer": "Report: Sinus rhythm, Prolonged QT interval, Possible anteroseptal infarct - age undetermined, Inferior/lateral ST-T changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s47004256/47004256",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please generate a report for the ECG below.",
+        "answer": "Report: Sinus bradycardia., Prolonged QT interval, Possible septal infarct - age undetermined, Inferior/lateral ST-T changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s49560547/49560547",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please generate a report for the ECG below.",
+        "answer": "Report: Sinus rhythm with PVC(s), Possible anteroseptal infarct - age undetermined, Inferior/lateral ST-T changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s48376834/48376834",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Provide me with the report of this ECG.",
+        "answer": "Report: Sinus rhythm with PVC(s), Leftward axis, Cannot rule out anteroseptal infarct - age undetermined, Possible left ventricular hypertrophy, Inferior/lateral ST-T changes may be due to hypertrophy and/or ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s46293961/46293961",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus rhythm, Consider left atrial abnormality, Left axis deviation, Cannot rule out anteroseptal infarct - age undetermined, Left ventricular hypertrophy, Inferior/lateral ST-T changes may be due to hypertrophy and/or ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s49245181/49245181",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus rhythm with PVC(s), Leftward axis, Cannot rule out anteroseptal infarct - age undetermined, Possible left ventricular hypertrophy, Inferior/lateral ST-T changes may be due to hypertrophy and/or ischemia, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s49144190/49144190",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I need a report on the following ECG.",
+        "answer": "Report: Sinus rhythm., Leftward axis, Anterolateral infarct - age undetermined, Inferior ST-T changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s41366957/41366957",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus rhythm with PVC(s)., Leftward axis, QRS changes V3/V4 may be due to LVH but cannot rule out anterior infarct, Possible left ventricular hypertrophy, Inferior/lateral ST-T changes are probably due to ventricular hypertrophy, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s49202548/49202548",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I need a report on the following ECG.",
+        "answer": "Report: Sinus rhythm., Consider left atrial abnormality, Leftward axis, Poor R wave progression - probable normal variant, Inferior/lateral ST-T changes are nonspecific, Borderline ECG",
+        "ecg_path": "files/p1000/p10000980/s48150809/48150809",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me the report of this ECG.",
+        "answer": "Report: Sinus rhythm, Inferior T wave changes are nonspecific, Low QRS voltages in precordial leads, Borderline ECG",
+        "ecg_path": "files/p1000/p10000980/s42368611/42368611",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Could you send me the ECG report?",
+        "answer": "Report: Atrial fibrillation., Inferior/lateral ST-T changes are nonspecific, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s43143228/43143228",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Could you send me the ECG report?",
+        "answer": "Report: Probable atrial fibrillation with PVC(s) or aberrant ventricular conduction., Left ventricular hypertrophy, Inferior/lateral ST-T changes are probably due to ventricular hypertrophy, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s49961002/49961002",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Could you send me the ECG report?",
+        "answer": "Report: Sinus rhythm with PAC(s), Possible left ventricular hypertrophy, Inferior/lateral ST-T changes are probably due to ventricular hypertrophy, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s40816324/40816324",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Can you share the report of the following ECG?",
+        "answer": "Report: Sinus arrhythmia, Leftward axis, Possible anteroseptal infarct - age undetermined, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s44669583/44669583",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Provide me with the report of this ECG.",
+        "answer": "Report: Sinus rhythm, Possible anteroseptal infarct - age undetermined, Inferior/lateral T wave changes are nonspecific, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s47544594/47544594",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I’d like to receive the report for this ECG.",
+        "answer": "Report: Sinus rhythm with PVCs., Leftward axis, Anteroseptal infarct - age undetermined, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s43744967/43744967",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus rhythm, Possible anteroseptal infarct - age undetermined, Inferior/lateral ST-T changes are nonspecific, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s45832921/45832921",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus rhythm, Prolonged QT interval, Possible anteroseptal infarct - age undetermined, Inferior/lateral ST-T changes may be due to myocardial ischemia, Low QRS voltages in precordial leads, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s43013697/43013697",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please generate a report for the ECG below.",
+        "answer": "Report: Sinus rhythm, Prolonged QT interval, Possible septal infarct - age undetermined, Inferior T wave changes are nonspecific, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s42178586/42178586",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I’d like to receive the report for this ECG.",
+        "answer": "Report: Sinus rhythm with aberrantly conducted supraventricular complexes, Anteroseptal infarct - age undetermined, Inferior infarct - age undetermined, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s46543372/46543372",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I’d like to receive the report for this ECG.",
+        "answer": "Report: Sinus rhythm, Inferior infarct, age indeterminate, Anterior infarct, old",
+        "ecg_path": "files/p1000/p10000980/s42855628/42855628",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please provide the report for the following ECG.",
+        "answer": "Report: Sinus bradycardia, Prolonged QT interval, Possible anteroseptal infarct - age undetermined, Inferior/lateral T wave changes are nonspecific, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s45105401/45105401",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus rhythm with borderline 1st degree A-V block, Leftward axis, Inferior infarct - age undetermined, Poor R wave progression - cannot rule out septal infarct, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s46857734/46857734",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I need a report on the following ECG.",
+        "answer": "Report: Sinus rhythm with borderline 1st degree A-V block, Inferior infarct - age undetermined, Possible anteroseptal infarct - age undetermined, Lateral ST changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s48288896/48288896",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus rhythm, Sinus pause, Inferior infarct, age indeterminate, Probable anterior infarct, age indeterminate",
+        "ecg_path": "files/p1000/p10000980/s48778222/48778222",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me the report of this ECG.",
+        "answer": "Report: Sinus rhythm, Low voltage, precordial leads, Anteroseptal infarct, old, Nonspecific repol abnormality, diffuse leads",
+        "ecg_path": "files/p1000/p10000980/s48132909/48132909",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Can you share the report of the following ECG?",
+        "answer": "Report: Sinus rhythm., Inferior infarct - age undetermined, Possible anteroseptal infarct - age undetermined, Lateral ST-T changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10000980/s41309390/41309390",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10001122/s47286409/47286409",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please provide the report for the following ECG.",
+        "answer": "Report: Sinus rhythm, Leftward axis, rSr'(V1) - probable normal variant, Lateral ST-T changes are nonspecific, Borderline ECG",
+        "ecg_path": "files/p1000/p10001176/s40925049/40925049",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please generate a report for the ECG below.",
+        "answer": "Report: Sinus tachycardia, Normal ECG except for rate",
+        "ecg_path": "files/p1000/p10001186/s45986118/45986118",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I’d like to receive the report for this ECG.",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10001186/s41997536/41997536",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me the report of this ECG.",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10001186/s43468501/43468501",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Could you send me the ECG report?",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10001217/s43576724/43576724",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I’d like to receive the report for this ECG.",
+        "answer": "Report: SINUS RHYTHM, WITHIN NORMAL LIMITS, Summary: NORMAL ECG",
+        "ecg_path": "files/p1000/p10001217/s49758073/49758073",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus rhythm, rSr'(V1) - probable normal variant, Normal ECG",
+        "ecg_path": "files/p1000/p10001338/s46440135/46440135",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Could you send me the ECG report?",
+        "answer": "Report: Sinus bradycardia with borderline 1st degree A-V block, rSr'(V1) - probable normal variant, Borderline ECG",
+        "ecg_path": "files/p1000/p10001338/s46743816/46743816",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me the report of this ECG.",
+        "answer": "Report: Sinus bradycardia with borderline 1st degree A-V block, Consider left atrial abnormality, Inferior infarct - age undetermined, Anterolateral ST-T changes are nonspecific, Abnormal ECG",
+        "ecg_path": "files/p1000/p10001401/s42790963/42790963",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I’d like to receive the report for this ECG.",
+        "answer": "Report: Unknown rhythm, irregular rate",
+        "ecg_path": "files/p1000/p10001401/s44102194/44102194",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Can you share the report of the following ECG?",
+        "answer": "Report: Sinus rhythm, Multiple premature complexes, vent & supraven, Nonspecific T abnormalities, inferior leads",
+        "ecg_path": "files/p1000/p10001401/s49368993/49368993",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please generate a report for the ECG below.",
+        "answer": "Report: Sinus rhythm, Atrial premature complex",
+        "ecg_path": "files/p1000/p10001401/s40341634/40341634",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus rhythm, Borderline prolonged PR interval, Probable anteroseptal infarct, recent",
+        "ecg_path": "files/p1000/p10001401/s48531703/48531703",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Provide me with the report of this ECG.",
+        "answer": "Report: Sinus rhythm",
+        "ecg_path": "files/p1000/p10001401/s49500365/49500365",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Provide me with the report of this ECG.",
+        "answer": "Report: Sinus rhythm with PACs., Possible faulty V2 - omitted from analysis, Borderline ECG",
+        "ecg_path": "files/p1000/p10001401/s49466912/49466912",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Can you share the report of the following ECG?",
+        "answer": "Report: Sinus rhythm, Leftward axis, Borderline ECG",
+        "ecg_path": "files/p1000/p10001492/s47226536/47226536",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I’d like to receive the report for this ECG.",
+        "answer": "Report: Sinus rhythm, Poor R wave progression - probable normal variant, Lateral T wave changes are nonspecific, Borderline ECG",
+        "ecg_path": "files/p1000/p10001492/s47863823/47863823",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me the report of this ECG.",
+        "answer": "Report: Sinus rhythm, Poor R wave progression - probable normal variant, Inferior/lateral ST-T changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10001492/s42186899/42186899",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I need a report on the following ECG.",
+        "answer": "Report: Sinus rhythm., Leftward axis, Possible anterior infarct - age undetermined, Inferior/lateral T changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10001492/s41103859/41103859",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me the report of this ECG.",
+        "answer": "Report: Sinus rhythm, Possible anterior infarct - age undetermined, Inferior/lateral ST-T changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10001492/s45842645/45842645",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10001629/s43749278/43749278",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus rhythm with PVCs, Borderline ECG",
+        "ecg_path": "files/p1000/p10001629/s46034277/46034277",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Provide me with the report of this ECG.",
+        "answer": "Report: Sinus rhythm, Low QRS voltages in precordial leads, Borderline ECG",
+        "ecg_path": "files/p1000/p10001663/s42060926/42060926",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Can you share the report of the following ECG?",
+        "answer": "Report: Sinus rhythm, Normal ECG",
+        "ecg_path": "files/p1000/p10001663/s43742645/43742645",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus bradycardia, Normal ECG except for rate",
+        "ecg_path": "files/p1000/p10001725/s41420867/41420867",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Could you send me the ECG report?",
+        "answer": "Report: Sinus rhythm, Septal ST-T changes are nonspecific, Borderline ECG",
+        "ecg_path": "files/p1000/p10001757/s41800350/41800350",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Provide me with the report of this ECG.",
+        "answer": "Report: Sinus bradycardia with PVC(s), Normal ECG except for rate",
+        "ecg_path": "files/p1000/p10001843/s44881309/44881309",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Can you share the report of the following ECG?",
+        "answer": "Report: Sinus rhythm, Ventricular premature complex, Anterior infarct, acute",
+        "ecg_path": "files/p1000/p10001843/s43647002/43647002",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "May I have the official report for the ECG provided?",
+        "answer": "Report: Sinus tachycardia with PAC(s)., Normal ECG except for rate",
+        "ecg_path": "files/p1000/p10001843/s47843381/47843381",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please generate a report for the ECG below.",
+        "answer": "Report: Sinus bradycardia., Normal ECG except for rate",
+        "ecg_path": "files/p1000/p10001843/s45896667/45896667",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Please provide the report for the following ECG.",
+        "answer": "Report: Atrial fibrillation with slow ventricular response, Prolonged QT interval, Abnormal ECG",
+        "ecg_path": "files/p1000/p10001860/s45808859/45808859",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Could you send me the ECG report?",
+        "answer": "Report: Atrial fibrillation, Rightward axis, Right bundle branch block, Inferior/lateral ST-T changes are nonspecific, Abnormal ECG",
+        "ecg_path": "files/p1000/p10001877/s40056908/40056908",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "Give me a detailed report on this ECG.",
+        "answer": "Report: Atrial fibrillation., Indeterminate axis, Right bundle branch block, Inferior/lateral ST-T changes may be due to myocardial ischemia, Abnormal ECG",
+        "ecg_path": "files/p1000/p10001877/s41316269/41316269",
+        "dataset": "mimic",
+        "task": "report"
+    },
+    {
+        "question": "I need a report on the following ECG.",
+        "answer": "Report: Atrial fibrillation with slow ventricular response, Left axis deviation, RBBB with left anterior fascicular block, Inferior/lateral ST-T changes are nonspecific, Abnormal ECG",
+        "ecg_path": "files/p1000/p10001877/s46566322/46566322",
+        "dataset": "mimic",
+        "task": "report"
+    }
+]

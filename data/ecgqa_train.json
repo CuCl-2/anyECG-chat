@@ -1,0 +1,1142 @@
+[
+    {
+        "question": "Is atrial fibrillation a newly discovered feature in the second ECG compared to the first one? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/02000/02598_hr",
+            "records500/06000/06848_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-verify",
+        "template_id": 58
+    },
+    {
+        "question": "Does the second ECG still demonstrate the absence of sinus arrhythmia in relation to the first ECG? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/06000/06234_hr",
+            "records500/17000/17373_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-verify",
+        "template_id": 60
+    },
+    {
+        "question": "What is the diagnostic symptom displayed in this ECG, non-specific ischemic or long qt-interval, even if there are uncertain symptoms? Please answer briefly.",
+        "answer": "non-specific ischemic",
+        "ecg_path": [
+            "records500/06000/06158_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 4
+    },
+    {
+        "question": "What kind of noises are present in lead aVF on this ECG tracing? Please answer briefly.",
+        "answer": "static noise",
+        "ecg_path": [
+            "records500/10000/10238_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 33
+    },
+    {
+        "question": "Is non-specific ischemic present in this ECG? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/02000/02103_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 1
+    },
+    {
+        "question": "Is the qrs duration reading on the second ECG indicative of a normal state as opposed to the first ECG? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/16000/16530_hr",
+            "records500/07000/07835_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-verify",
+        "template_id": 64
+    },
+    {
+        "question": "Has the presence of myocardial infarction remained consistent in the second ECG when compared to the first ECG? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/03000/03967_hr",
+            "records500/01000/01482_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-verify",
+        "template_id": 59
+    },
+    {
+        "question": "What are the numerical measurements of this ECG that fall above the normal range? Please answer briefly.",
+        "answer": "qrs duration, pr interval",
+        "ecg_path": [
+            "records500/02000/02236_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 42
+    },
+    {
+        "question": "Which symptoms persist in the second ECG compared to the first ECG? Please answer briefly.",
+        "answer": "atrial fibrillation, myocardial infarction in inferior leads",
+        "ecg_path": [
+            "records500/11000/11755_hr",
+            "records500/12000/12032_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 63
+    },
+    {
+        "question": "Has the second ECG shown the removal of complete left bundle branch block in relation to the first ECG? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/10000/10190_hr",
+            "records500/13000/13542_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-verify",
+        "template_id": 57
+    },
+    {
+        "question": "Is left atrial overload/enlargement still present in the second ECG as compared to the first one? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/05000/05289_hr",
+            "records500/07000/07904_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-verify",
+        "template_id": 59
+    },
+    {
+        "question": "At what stage of infarction is this ECG, late stage of myocardial infarction or middle stage of myocardial infarction? Please answer briefly.",
+        "answer": "late stage of myocardial infarction",
+        "ecg_path": [
+            "records500/13000/13873_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 24
+    },
+    {
+        "question": "What are the numerical measurements of the second ECG that are still not normal compared to the first ECG? Please answer briefly.",
+        "answer": "qrs duration, qt corrected",
+        "ecg_path": [
+            "records500/06000/06141_hr",
+            "records500/20000/20001_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 70
+    },
+    {
+        "question": "Can you identify the diagnostic symptoms present in this ECG, disregarding any uncertain symptoms? Please answer briefly.",
+        "answer": "myocardial infarction in anteroseptal leads, left anterior fascicular block, ischemic in inferolateral leads",
+        "ecg_path": [
+            "records500/21000/21123_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 9
+    },
+    {
+        "question": "Does the qt corrected shown on this ECG fall above the normal range? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/03000/03981_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 39
+    },
+    {
+        "question": "What signs of a rhythm-related disorder can be found in this ECG recording? Please answer briefly.",
+        "answer": "sinus bradycardia",
+        "ecg_path": [
+            "records500/18000/18502_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 10
+    },
+    {
+        "question": "By excluding uncertain symptoms, which diagnostic symptom is apparent in this ECG, non-specific intraventricular conduction disturbance (block) or myocardial infarction in anterior leads? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/11000/11133_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 5
+    },
+    {
+        "question": "What are the symptoms that are still evident in the second ECG when compared to the first ECG? Please answer briefly.",
+        "answer": "complete left bundle branch block",
+        "ecg_path": [
+            "records500/16000/16189_hr",
+            "records500/16000/16593_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 63
+    },
+    {
+        "question": "What does lead V2 of the ECG exhibit, baseline drift or burst noise? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/08000/08281_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 31
+    },
+    {
+        "question": "Can you specify the diagnostic symptoms shown in this ECG, including those that are inconclusive? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/09000/09429_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 8
+    },
+    {
+        "question": "What symptoms have been detected in the second ECG that were not present in the first? Please answer briefly.",
+        "answer": "non-specific ischemic, sinus bradycardia, inverted t-waves",
+        "ecg_path": [
+            "records500/08000/08693_hr",
+            "records500/13000/13694_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 62
+    },
+    {
+        "question": "Are there any signs of abnormalities in the ECG tracing? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/14000/14213_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 12
+    },
+    {
+        "question": "Has the recent tracing revealed any new instances of non-diagnostic t abnormalities in comparison to the previous tracing? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/07000/07443_hr",
+            "records500/07000/07445_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_consecutive-verify",
+        "template_id": 44
+    },
+    {
+        "question": "Excluding ambiguous symptoms, which diagnostic symptom can be identified from this ECG, left atrial overload/enlargement or complete left bundle branch block? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/04000/04817_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 5
+    },
+    {
+        "question": "What is the diagnostic symptom that can be identified from this ECG, excluding any symptoms that are unclear, non-diagnostic t abnormalities or myocardial infarction in anteroseptal leads? Please answer briefly.",
+        "answer": "myocardial infarction in anteroseptal leads, non-diagnostic t abnormalities",
+        "ecg_path": [
+            "records500/07000/07023_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 5
+    },
+    {
+        "question": "When compared to the previous tracing, is incomplete right bundle branch block still not located in the recent tracing? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/01000/01065_hr",
+            "records500/01000/01077_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_consecutive-verify",
+        "template_id": 46
+    },
+    {
+        "question": "Which symptoms continue to exist in the second ECG when compared to the first ECG? Please answer briefly.",
+        "answer": "abnormal qrs, sinus bradycardia",
+        "ecg_path": [
+            "records500/08000/08545_hr",
+            "records500/11000/11877_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 63
+    },
+    {
+        "question": "What types of noises are displayed in lead V5 in this ECG waveform? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/16000/16365_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 33
+    },
+    {
+        "question": "Excluding ambiguous symptoms, which diagnostic symptom can be identified from this ECG, ischemic in anterior leads or myocardial infarction in inferolateral leads? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/00000/00559_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 5
+    },
+    {
+        "question": "What are the abnormal numerical measurements that still exist in the recent tracing compared to the previous one? Please answer briefly.",
+        "answer": "qt interval, rr interval",
+        "ecg_path": [
+            "records500/02000/02885_hr",
+            "records500/02000/02894_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_consecutive-query",
+        "template_id": 56
+    },
+    {
+        "question": "Which diagnoses are no longer evident in the second ECG as compared to the first ECG? Please answer briefly.",
+        "answer": "sinus bradycardia, non-specific ischemic, digitalis effect, sinus arrhythmia",
+        "ecg_path": [
+            "records500/00000/00284_hr",
+            "records500/00000/00333_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 61
+    },
+    {
+        "question": "Has incomplete left bundle branch block been identified in the recent tracing, as opposed to the previous one? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/13000/13788_hr",
+            "records500/13000/13858_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_consecutive-verify",
+        "template_id": 44
+    },
+    {
+        "question": "Which new symptoms have been detected in the second ECG that were not present in the first? Please answer briefly.",
+        "answer": "myocardial infarction in anteroseptal leads, non-specific ischemic, left ventricular hypertrophy",
+        "ecg_path": [
+            "records500/01000/01317_hr",
+            "records500/19000/19878_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 62
+    },
+    {
+        "question": "What are the signs related to the form that this ECG shows in lead V6? Please answer briefly.",
+        "answer": "non-specific st depression, inverted t-waves",
+        "ecg_path": [
+            "records500/16000/16591_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 18
+    },
+    {
+        "question": "Is there any static noise in lead V6 according to this ECG? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/02000/02500_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 26
+    },
+    {
+        "question": "What are the symptoms that are still evident in the second ECG when compared to the first ECG? Please answer briefly.",
+        "answer": "non-specific ischemic, first degree av block, left ventricular hypertrophy",
+        "ecg_path": [
+            "records500/01000/01202_hr",
+            "records500/14000/14216_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 63
+    },
+    {
+        "question": "What symptoms are new on the second ECG that were not present in the first ECG? Please answer briefly.",
+        "answer": "prolonged pr interval, sinus rhythm, voltage criteria (qrs) for left ventricular hypertrophy, left ventricular hypertrophy, ischemic in anterolateral leads",
+        "ecg_path": [
+            "records500/01000/01894_hr",
+            "records500/04000/04656_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 62
+    },
+    {
+        "question": "Could you identify the diagnostic symptom depicted in this ECG, specifically left atrial overload/enlargement or myocardial infarction in anterior leads, including any indeterminate symptoms? Please answer briefly.",
+        "answer": "myocardial infarction in anterior leads",
+        "ecg_path": [
+            "records500/11000/11158_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 4
+    },
+    {
+        "question": "What kind of noises are present in lead V2 on this ECG tracing? Please answer briefly.",
+        "answer": "static noise",
+        "ecg_path": [
+            "records500/12000/12261_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 33
+    },
+    {
+        "question": "Regarding this ECG, can you identify which diagnostic symptom is being shown, whether it is myocardial infarction in anterolateral leads or left atrial overload/enlargement, including symptoms that are uncertain? Please answer briefly.",
+        "answer": "left atrial overload/enlargement",
+        "ecg_path": [
+            "records500/16000/16366_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 4
+    },
+    {
+        "question": "Is the right axis deviation discernible in this ECG? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/09000/09861_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 20
+    },
+    {
+        "question": "Is ischemic in inferolateral leads indicated by this ECG? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/01000/01459_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 1
+    },
+    {
+        "question": "Excluding any uncertain symptoms, what is the diagnostic symptom that this ECG displays, myocardial infarction in anterior leads or first degree av block? Please answer briefly.",
+        "answer": "myocardial infarction in anterior leads",
+        "ecg_path": [
+            "records500/01000/01853_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 5
+    },
+    {
+        "question": "Has the presence of non-specific st depression been sustained in the second ECG when compared to the first ECG? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/03000/03960_hr",
+            "records500/15000/15789_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-verify",
+        "template_id": 59
+    },
+    {
+        "question": "What are the numeric features that are now considered normal in the second ECG, as opposed to the first one? Please answer briefly.",
+        "answer": "p duration",
+        "ecg_path": [
+            "records500/07000/07126_hr",
+            "records500/02000/02633_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 68
+    },
+    {
+        "question": "Is non-specific st changes present in this ECG? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/01000/01168_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 1
+    },
+    {
+        "question": "What symptoms have been detected in the second ECG that were not present in the first? Please answer briefly.",
+        "answer": "myocardial infarction in posterior leads",
+        "ecg_path": [
+            "records500/01000/01633_hr",
+            "records500/01000/01544_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 62
+    },
+    {
+        "question": "What are the numeric features that are now considered normal in the second ECG, as opposed to the first one? Please answer briefly.",
+        "answer": "qt corrected, p duration",
+        "ecg_path": [
+            "records500/17000/17862_hr",
+            "records500/07000/07371_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 68
+    },
+    {
+        "question": "Has abnormal qrs been undiscovered in the recent tracing when compared to the previous tracing? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/02000/02510_hr",
+            "records500/02000/02513_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_consecutive-verify",
+        "template_id": 46
+    },
+    {
+        "question": "Does this ECG show any kind of signal distortions in lead aVL? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/12000/12514_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 28
+    },
+    {
+        "question": "Has ventricular premature complex been retained in the recent tracing as compared to the previous tracing? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/11000/11724_hr",
+            "records500/11000/11728_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_consecutive-verify",
+        "template_id": 45
+    },
+    {
+        "question": "What is the diagnostic symptom indicated by this ECG, specifically myocardial infarction in inferoposterolateral leads or left atrial overload/enlargement, including any uncertain symptoms? Please answer briefly.",
+        "answer": "myocardial infarction in inferoposterolateral leads",
+        "ecg_path": [
+            "records500/06000/06962_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 4
+    },
+    {
+        "question": "What form-related manifestations are apparent in lead II in this ECG? Please answer briefly.",
+        "answer": "inverted t-waves",
+        "ecg_path": [
+            "records500/12000/12923_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 18
+    },
+    {
+        "question": "Which numerical values of this ECG fall within the normal range? Please answer briefly.",
+        "answer": "qrs duration, qt interval, qt corrected, pr interval",
+        "ecg_path": [
+            "records500/11000/11057_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 42
+    },
+    {
+        "question": "Does the ECG reveal any baseline drift in lead aVL? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/10000/10226_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 26
+    },
+    {
+        "question": "Does the ECG demonstrate any burst noise in lead V5? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/17000/17220_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 26
+    },
+    {
+        "question": "Which form-related abnormalities can be observed in this ECG? Please answer briefly.",
+        "answer": "non-specific t-wave changes",
+        "ecg_path": [
+            "records500/03000/03768_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 11
+    },
+    {
+        "question": "Are there any indications of t-wave abnormality in lead V3 on this ECG reading? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/14000/14432_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 17
+    },
+    {
+        "question": "What new symptoms are visible in the second ECG that were not present in the first one? Please answer briefly.",
+        "answer": "sinus rhythm, myocardial infarction in anteroseptal leads, non-specific ischemic, abnormal qrs, left ventricular hypertrophy, myocardial infarction in inferior leads",
+        "ecg_path": [
+            "records500/02000/02520_hr",
+            "records500/20000/20862_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 62
+    },
+    {
+        "question": "Excluding ambiguous symptoms, which diagnostic symptom can be identified from this ECG, incomplete right bundle branch block or first degree av block? Please answer briefly.",
+        "answer": "incomplete right bundle branch block, first degree av block",
+        "ecg_path": [
+            "records500/14000/14127_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 5
+    },
+    {
+        "question": "Which diagnostic symptom is clearly indicated in this ECG, long qt-interval or myocardial infarction in inferolateral leads, with ambiguous symptoms removed from consideration? Please answer briefly.",
+        "answer": "long qt-interval",
+        "ecg_path": [
+            "records500/12000/12410_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 5
+    },
+    {
+        "question": "Has sinus bradycardia been found in the recent tracing, which was not identified in the previous tracing? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/11000/11896_hr",
+            "records500/11000/11901_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_consecutive-verify",
+        "template_id": 44
+    },
+    {
+        "question": "What numeric features of the second ECG are still abnormal as compared to the first ECG? Please answer briefly.",
+        "answer": "qt interval, pr interval, rr interval",
+        "ecg_path": [
+            "records500/07000/07848_hr",
+            "records500/10000/10299_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 70
+    },
+    {
+        "question": "Does the second ECG still show the same abnormality in the qrs duration as the first ECG? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/17000/17318_hr",
+            "records500/12000/12366_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-verify",
+        "template_id": 66
+    },
+    {
+        "question": "Excluding any uncertain symptoms, what is the diagnostic symptom that this ECG displays, subendocardial injury in anterolateral leads or ischemic in anterior leads? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/06000/06195_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 5
+    },
+    {
+        "question": "Which numerical values of this ECG fall above the normal range? Please answer briefly.",
+        "answer": "qrs duration, qt interval, rr interval",
+        "ecg_path": [
+            "records500/14000/14976_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 42
+    },
+    {
+        "question": "Does the ECG reveal any static noise in lead I? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/12000/12202_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 26
+    },
+    {
+        "question": "Which numerical features of this ECG are found within the normal range? Please answer briefly.",
+        "answer": "rr interval, qrs duration, p duration, qt corrected, pr interval",
+        "ecg_path": [
+            "records500/16000/16468_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 42
+    },
+    {
+        "question": "Can you highlight the diagnostic indications seen in this ECG, including those that are not conclusive? Please answer briefly.",
+        "answer": "non-diagnostic t abnormalities",
+        "ecg_path": [
+            "records500/02000/02691_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 8
+    },
+    {
+        "question": "What specific leads are showing any indications of non-specific st depression on this ECG? Please answer briefly.",
+        "answer": "lead I, lead aVL, lead V5, lead V6",
+        "ecg_path": [
+            "records500/05000/05729_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 19
+    },
+    {
+        "question": "Is incomplete left bundle branch block still unlocated in the recent tracing when compared to the previous tracing? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/07000/07101_hr",
+            "records500/07000/07107_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_consecutive-verify",
+        "template_id": 46
+    },
+    {
+        "question": "Can lead V2 provide evidence of q waves present in this ECG? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/14000/14505_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 17
+    },
+    {
+        "question": "What are the ECG form-related symptoms displayed in lead V5? Please answer briefly.",
+        "answer": "non-specific st depression, non-diagnostic t abnormalities, low amplitude t-wave",
+        "ecg_path": [
+            "records500/18000/18587_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 18
+    },
+    {
+        "question": "Can you describe any new symptoms that have appeared on the second ECG but not on the first? Please answer briefly.",
+        "answer": "voltage criteria (qrs) for left ventricular hypertrophy, myocardial infarction in anteroseptal leads, non-specific ischemic",
+        "ecg_path": [
+            "records500/03000/03844_hr",
+            "records500/14000/14556_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 62
+    },
+    {
+        "question": "Can you tell me which leads in this ECG show features of non-diagnostic t abnormalities symptoms? Please answer briefly.",
+        "answer": "lead I, lead aVL, lead V4, lead V5, lead V6",
+        "ecg_path": [
+            "records500/08000/08459_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 19
+    },
+    {
+        "question": "Does the second ECG still exhibit the absence of non-specific t-wave changes in comparison to the first ECG? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/03000/03871_hr",
+            "records500/09000/09374_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-verify",
+        "template_id": 60
+    },
+    {
+        "question": "What ECG values are present below the normal range? Please answer briefly.",
+        "answer": "qt interval, qt corrected, pr interval",
+        "ecg_path": [
+            "records500/14000/14522_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 42
+    },
+    {
+        "question": "What symptoms are new on the second ECG that were not present in the first ECG? Please answer briefly.",
+        "answer": "left atrial overload/enlargement, sinus rhythm, myocardial infarction in lateral leads, myocardial infarction in anteroseptal leads, abnormal qrs",
+        "ecg_path": [
+            "records500/00000/00428_hr",
+            "records500/05000/05527_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 62
+    },
+    {
+        "question": "Which diagnostic symptom is clearly indicated in this ECG, myocardial infarction in anterior leads or incomplete right bundle branch block, with ambiguous symptoms removed from consideration? Please answer briefly.",
+        "answer": "incomplete right bundle branch block",
+        "ecg_path": [
+            "records500/12000/12530_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 5
+    },
+    {
+        "question": "Which diagnoses are no longer visible in the second ECG compared to the first ECG? Please answer briefly.",
+        "answer": "sinus rhythm, myocardial infarction in inferior leads, low qrs voltages in the frontal and horizontal leads",
+        "ecg_path": [
+            "records500/12000/12340_hr",
+            "records500/01000/01756_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 61
+    },
+    {
+        "question": "Does the second ECG reveal the presence of sinus rhythm that was not previously detected in the first ECG? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/14000/14540_hr",
+            "records500/09000/09724_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-verify",
+        "template_id": 58
+    },
+    {
+        "question": "Has any new presence of ventricular premature complex been observed in the recent tracing, as opposed to the previous one? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/00000/00023_hr",
+            "records500/00000/00039_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_consecutive-verify",
+        "template_id": 44
+    },
+    {
+        "question": "Which numeric attributes in the recent tracing have returned to the normal range from the previous one? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/08000/08774_hr",
+            "records500/10000/10965_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_consecutive-query",
+        "template_id": 54
+    },
+    {
+        "question": "Are there any noises detected in lead II on this ECG? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/06000/06758_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 28
+    },
+    {
+        "question": "What are the numerical measurements of this ECG that fall within the normal range? Please answer briefly.",
+        "answer": "qrs duration, qt interval, p duration, rr interval",
+        "ecg_path": [
+            "records500/14000/14599_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 42
+    },
+    {
+        "question": "Is there any suggestion of inverted t-waves in lead V3 on this ECG? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/00000/00997_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 17
+    },
+    {
+        "question": "What are the ECG form-related symptoms displayed in lead I? Please answer briefly.",
+        "answer": "non-specific st depression, non-diagnostic t abnormalities",
+        "ecg_path": [
+            "records500/15000/15951_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 18
+    },
+    {
+        "question": "Is there any suggestion of t-wave abnormality in lead V1 on this ECG? Please answer briefly.",
+        "answer": "yes",
+        "ecg_path": [
+            "records500/04000/04023_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 17
+    },
+    {
+        "question": "Does this ECG display normal results? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/02000/02088_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 2
+    },
+    {
+        "question": "Which symptoms remain unchanged in the second ECG as compared to the first ECG? Please answer briefly.",
+        "answer": "abnormal qrs, myocardial infarction in anteroseptal leads, myocardial infarction in inferior leads",
+        "ecg_path": [
+            "records500/13000/13828_hr",
+            "records500/14000/14487_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 63
+    },
+    {
+        "question": "What types of noises are displayed in lead V2 in this ECG waveform? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/10000/10752_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 33
+    },
+    {
+        "question": "What are the symptoms that are still present in the second ECG that were also present in the first ECG? Please answer briefly.",
+        "answer": "myocardial infarction in anteroseptal leads, q waves present",
+        "ecg_path": [
+            "records500/00000/00651_hr",
+            "records500/05000/05594_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-query",
+        "template_id": 63
+    },
+    {
+        "question": "Regarding this ECG, which diagnostic symptom is being exhibited, specifically ischemic in lateral leads or left posterior fascicular block, including any ambiguous symptoms? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/01000/01710_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 4
+    },
+    {
+        "question": "What is the diagnostic symptom that can be identified from this ECG, excluding any symptoms that are unclear, non-specific ischemic or complete right bundle branch block? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/07000/07088_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 5
+    },
+    {
+        "question": "Could you explain the diagnostic symptoms in this ECG, both certain and uncertain? Please answer briefly.",
+        "answer": "non-specific st changes, left anterior fascicular block",
+        "ecg_path": [
+            "records500/17000/17266_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-query",
+        "template_id": 8
+    },
+    {
+        "question": "Can lead I provide evidence of non-diagnostic t abnormalities in this ECG? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/17000/17981_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 17
+    },
+    {
+        "question": "What is the diagnostic symptom displayed in this ECG, digitalis effect or first degree av block, even if there are uncertain symptoms? Please answer briefly.",
+        "answer": "digitalis effect, first degree av block",
+        "ecg_path": [
+            "records500/04000/04995_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 4
+    },
+    {
+        "question": "What is the diagnostic symptom that can be identified from this ECG, excluding any symptoms that are unclear, long qt-interval or non-specific intraventricular conduction disturbance (block)? Please answer briefly.",
+        "answer": "none",
+        "ecg_path": [
+            "records500/10000/10630_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-choose",
+        "template_id": 5
+    },
+    {
+        "question": "Is there any evidence of low amplitude t-wave in lead I on this ECG recording? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/02000/02823_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "single-verify",
+        "template_id": 17
+    },
+    {
+        "question": "Is incomplete right bundle branch block still present in the second ECG as compared to the first one? Please answer briefly.",
+        "answer": "no",
+        "ecg_path": [
+            "records500/00000/00420_hr",
+            "records500/20000/20283_hr"
+        ],
+        "dataset": "ptbxl",
+        "task": "ecgqa",
+        "question_type": "comparison_irrelevant-verify",
+        "template_id": 59
+    }
+]

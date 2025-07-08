@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Where is the Premature ventricular contraction located in this ECG?",
+        "answer": "Duration: 0.0s-0.7s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 54830,
+        "ecg_end": 58430
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 0.0s-1.0s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 54742,
+        "ecg_end": 58342
+    },
+    {
+        "question": "Examine this ECG and point out where the Premature ventricular contraction is located.",
+        "answer": "Duration: 1.9s-3.0s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 54007,
+        "ecg_end": 57607
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.5s-1.7s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 54489,
+        "ecg_end": 58089
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Premature ventricular contraction.Where does the Premature ventricular contraction appear in this ECG?",
+        "answer": "Duration: 0.8s-2.0s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 54380,
+        "ecg_end": 57980
+    },
+    {
+        "question": "Can you locate the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.6s-1.8s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 54454,
+        "ecg_end": 58054
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 0.3s-1.5s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 54563,
+        "ecg_end": 58163
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.6s-1.7s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 54482,
+        "ecg_end": 58082
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.2s-2.3s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 54254,
+        "ecg_end": 57854
+    },
+    {
+        "question": "Tell me where to find the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.0s-1.0s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 54739,
+        "ecg_end": 58339
+    },
+    {
+        "question": "Examine this ECG and point out where the Premature ventricular contraction is located.",
+        "answer": "Duration: 0.2s-1.5s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 441414,
+        "ecg_end": 445014
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.5s-1.7s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 441326,
+        "ecg_end": 444926
+    },
+    {
+        "question": "Tell me where to find the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.1s-2.4s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 441098,
+        "ecg_end": 444698
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.0s-1.2s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 441528,
+        "ecg_end": 445128
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 0.0s-0.8s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 441651,
+        "ecg_end": 445251
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.7s-1.9s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 441264,
+        "ecg_end": 444864
+    },
+    {
+        "question": "Can you locate the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 1.7s-3.0s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 440884,
+        "ecg_end": 444484
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 0.8s-2.0s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 441225,
+        "ecg_end": 444825
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 0.3s-1.5s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 441406,
+        "ecg_end": 445006
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.4s-1.7s",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 441346,
+        "ecg_end": 444946
+    },
+    {
+        "question": "I need to find the Premature ventricular contraction on this ECG; where should I look?",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 232098,
+        "ecg_end": 235698
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 136572,
+        "ecg_end": 140172
+    },
+    {
+        "question": "Can you show me where the Premature ventricular contraction occurred on this ECG?",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 287676,
+        "ecg_end": 291276
+    },
+    {
+        "question": "Where is the Premature ventricular contraction located in this ECG?",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 48901,
+        "ecg_end": 52501
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 599,
+        "ecg_end": 4199
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 174658,
+        "ecg_end": 178258
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 170500,
+        "ecg_end": 174100
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 100174,
+        "ecg_end": 103774
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 116236,
+        "ecg_end": 119836
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 74708,
+        "ecg_end": 78308
+    },
+    {
+        "question": "Could you identify where the Supraventricular premature or ectopic beat (atrial or nodal) is on this ECG?",
+        "answer": "No Supraventricular premature or ectopic beat (atrial or nodal) Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "S",
+        "ecg_start": 234865,
+        "ecg_end": 238465
+    },
+    {
+        "question": "On this ECG, where can I see the Supraventricular premature or ectopic beat (atrial or nodal)?",
+        "answer": "No Supraventricular premature or ectopic beat (atrial or nodal) Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "S",
+        "ecg_start": 42176,
+        "ecg_end": 45776
+    },
+    {
+        "question": "Where should I look to find the Supraventricular premature or ectopic beat (atrial or nodal) on this ECG?",
+        "answer": "No Supraventricular premature or ectopic beat (atrial or nodal) Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "S",
+        "ecg_start": 266307,
+        "ecg_end": 269907
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Supraventricular premature or ectopic beat (atrial or nodal).Where does the Supraventricular premature or ectopic beat (atrial or nodal) appear in this ECG?",
+        "answer": "No Supraventricular premature or ectopic beat (atrial or nodal) Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "S",
+        "ecg_start": 57177,
+        "ecg_end": 60777
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Supraventricular premature or ectopic beat (atrial or nodal).Where does the Supraventricular premature or ectopic beat (atrial or nodal) appear in this ECG?",
+        "answer": "No Supraventricular premature or ectopic beat (atrial or nodal) Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "S",
+        "ecg_start": 289022,
+        "ecg_end": 292622
+    },
+    {
+        "question": "Help me locate the Supraventricular premature or ectopic beat (atrial or nodal) on this ECG.",
+        "answer": "No Supraventricular premature or ectopic beat (atrial or nodal) Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "S",
+        "ecg_start": 65436,
+        "ecg_end": 69036
+    },
+    {
+        "question": "Help me locate the Supraventricular premature or ectopic beat (atrial or nodal) on this ECG.",
+        "answer": "No Supraventricular premature or ectopic beat (atrial or nodal) Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "S",
+        "ecg_start": 174457,
+        "ecg_end": 178057
+    },
+    {
+        "question": "Help me locate the Supraventricular premature or ectopic beat (atrial or nodal) on this ECG.",
+        "answer": "No Supraventricular premature or ectopic beat (atrial or nodal) Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "S",
+        "ecg_start": 106536,
+        "ecg_end": 110136
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Supraventricular premature or ectopic beat (atrial or nodal).Where does the Supraventricular premature or ectopic beat (atrial or nodal) appear in this ECG?",
+        "answer": "No Supraventricular premature or ectopic beat (atrial or nodal) Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "S",
+        "ecg_start": 308080,
+        "ecg_end": 311680
+    },
+    {
+        "question": "Could you identify where the Supraventricular premature or ectopic beat (atrial or nodal) is on this ECG?",
+        "answer": "No Supraventricular premature or ectopic beat (atrial or nodal) Found",
+        "ecg_path": "300",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "S",
+        "ecg_start": 233302,
+        "ecg_end": 236902
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.7s-3.2s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 127974,
+        "ecg_end": 131574
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.6s-2.1s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 128365,
+        "ecg_end": 131965
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 1.0s-2.5s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 128218,
+        "ecg_end": 131818
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 1.6s-3.1s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 128000,
+        "ecg_end": 131600
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 1.7s-3.1s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 127991,
+        "ecg_end": 131591
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 0.8s-2.2s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 128309,
+        "ecg_end": 131909
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 1.1s-2.6s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 128182,
+        "ecg_end": 131782
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.0s-1.4s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 128625,
+        "ecg_end": 132225
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 1.5s-3.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 128043,
+        "ecg_end": 131643
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.9s-2.4s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 128257,
+        "ecg_end": 131857
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 1.8s-3.3s, 9.9s-10.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 141846,
+        "ecg_end": 145446
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "Duration: 1.4s-2.9s, 9.6s-10.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 141981,
+        "ecg_end": 145581
+    },
+    {
+        "question": "Where is the Premature ventricular contraction located in this ECG?",
+        "answer": "Duration: 1.8s-3.3s, 10.0s-10.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 141841,
+        "ecg_end": 145441
+    },
+    {
+        "question": "Tell me where to find the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 2.0s-3.5s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 141787,
+        "ecg_end": 145387
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.9s-2.4s, 9.0s-10.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 142182,
+        "ecg_end": 145782
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Premature ventricular contraction.Where does the Premature ventricular contraction appear in this ECG?",
+        "answer": "Duration: 0.5s-2.0s, 8.7s-10.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 142310,
+        "ecg_end": 145910
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.7s-2.2s, 8.9s-10.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 142238,
+        "ecg_end": 145838
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 0.0s-1.2s, 7.9s-9.4s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 142586,
+        "ecg_end": 146186
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 0.0s-1.5s, 8.1s-9.6s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 142510,
+        "ecg_end": 146110
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.8s-2.3s, 8.9s-10.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 142212,
+        "ecg_end": 145812
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "Duration: 1.0s-2.4s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 145083,
+        "ecg_end": 148683
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 1.3s-2.7s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 144973,
+        "ecg_end": 148573
+    },
+    {
+        "question": "Check this ECG and tell me where the Premature ventricular contraction appears.",
+        "answer": "Duration: 0.0s-1.3s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 145501,
+        "ecg_end": 149101
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 0.8s-2.3s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 145147,
+        "ecg_end": 148747
+    },
+    {
+        "question": "Tell me where to find the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.0s-2.5s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 145073,
+        "ecg_end": 148673
+    },
+    {
+        "question": "Can you show me where the Premature ventricular contraction occurred on this ECG?",
+        "answer": "Duration: 1.8s-3.3s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 144771,
+        "ecg_end": 148371
+    },
+    {
+        "question": "Could you point out where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.5s-2.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 145244,
+        "ecg_end": 148844
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 0.0s-1.4s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 145476,
+        "ecg_end": 149076
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 1.7s-3.2s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 144827,
+        "ecg_end": 148427
+    },
+    {
+        "question": "Examine this ECG and point out where the Premature ventricular contraction is located.",
+        "answer": "Duration: 0.9s-2.4s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 145113,
+        "ecg_end": 148713
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 1.4s-2.9s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 156211,
+        "ecg_end": 159811
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 0.0s-1.3s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 156815,
+        "ecg_end": 160415
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.2s-1.8s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 156637,
+        "ecg_end": 160237
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 1.7s-3.2s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 156106,
+        "ecg_end": 159706
+    },
+    {
+        "question": "Where is the Premature ventricular contraction located in this ECG?",
+        "answer": "Duration: 0.7s-2.2s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 156468,
+        "ecg_end": 160068
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.0s-2.5s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 156369,
+        "ecg_end": 159969
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.0s-1.2s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 156845,
+        "ecg_end": 160445
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 1.7s-3.2s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 156106,
+        "ecg_end": 159706
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 1.6s-3.1s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 156150,
+        "ecg_end": 159750
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 0.8s-2.4s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 156414,
+        "ecg_end": 160014
+    },
+    {
+        "question": "I need to find the Premature ventricular contraction on this ECG; where should I look?",
+        "answer": "Duration: 0.0s-1.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 162686,
+        "ecg_end": 166286
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 0.6s-2.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 162295,
+        "ecg_end": 165895
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.0s-1.1s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 162641,
+        "ecg_end": 166241
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 0.6s-2.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 162298,
+        "ecg_end": 165898
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "Duration: 0.5s-1.9s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 162343,
+        "ecg_end": 165943
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 2.0s-3.4s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 161797,
+        "ecg_end": 165397
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 0.0s-1.4s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 162510,
+        "ecg_end": 166110
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 0.0s-1.1s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 162625,
+        "ecg_end": 166225
+    },
+    {
+        "question": "I need to find the Premature ventricular contraction on this ECG; where should I look?",
+        "answer": "Duration: 1.9s-3.4s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 161824,
+        "ecg_end": 165424
+    },
+    {
+        "question": "Examine this ECG and point out where the Premature ventricular contraction is located.",
+        "answer": "Duration: 1.6s-3.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 161939,
+        "ecg_end": 165539
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.3s-1.7s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 215543,
+        "ecg_end": 219143
+    },
+    {
+        "question": "Where is the Premature ventricular contraction located in this ECG?",
+        "answer": "Duration: 0.0s-1.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 215788,
+        "ecg_end": 219388
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Premature ventricular contraction.Where does the Premature ventricular contraction appear in this ECG?",
+        "answer": "Duration: 0.3s-1.8s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 215522,
+        "ecg_end": 219122
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.0s-1.4s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 215661,
+        "ecg_end": 219261
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 1.8s-3.2s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 214993,
+        "ecg_end": 218593
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 0.5s-1.9s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 215454,
+        "ecg_end": 219054
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "Duration: 1.8s-3.2s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 214993,
+        "ecg_end": 218593
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 1.6s-3.0s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 215059,
+        "ecg_end": 218659
+    },
+    {
+        "question": "Can you show me where the Premature ventricular contraction occurred on this ECG?",
+        "answer": "Duration: 1.1s-2.6s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 215233,
+        "ecg_end": 218833
+    },
+    {
+        "question": "Could you point out where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.0s-1.3s",
+        "ecg_path": "303",
+        "dataset": "mit_bih_st",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 215703,
+        "ecg_end": 219303
+    }
+]

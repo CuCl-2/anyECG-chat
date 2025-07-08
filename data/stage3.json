@@ -1,0 +1,1202 @@
+[
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 0.4s-3.7s, 4.6s-9.3s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 472827,
+        "ecg_end": 475327
+    },
+    {
+        "question": "Examine this ECG and point out where the Premature ventricular contraction is located.",
+        "answer": "Duration: 1.8s-5.1s, 6.1s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 472474,
+        "ecg_end": 474974
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.0s-3.1s, 4.1s-8.8s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 472956,
+        "ecg_end": 475456
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Premature ventricular contraction.Where does the Premature ventricular contraction appear in this ECG?",
+        "answer": "Duration: 0.3s-3.6s, 4.6s-9.3s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 472847,
+        "ecg_end": 475347
+    },
+    {
+        "question": "Can you locate the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.0s-3.3s, 4.3s-9.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 472921,
+        "ecg_end": 475421
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 0.0s-2.8s, 3.8s-8.5s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 473030,
+        "ecg_end": 475530
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.0s-3.2s, 4.2s-8.9s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 472949,
+        "ecg_end": 475449
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.8s-4.1s, 5.1s-9.8s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 472721,
+        "ecg_end": 475221
+    },
+    {
+        "question": "Examine this ECG and point out where the Premature ventricular contraction is located.",
+        "answer": "Duration: 1.6s-4.8s, 5.8s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 472530,
+        "ecg_end": 475030
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.0s-3.1s, 4.0s-8.7s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 472978,
+        "ecg_end": 475478
+    },
+    {
+        "question": "Tell me where to find the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.7s-5.4s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 473804,
+        "ecg_end": 476304
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 0.0s-0.7s, 1.7s-6.4s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 473562,
+        "ecg_end": 476062
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.1s-4.8s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 473970,
+        "ecg_end": 476470
+    },
+    {
+        "question": "Can you locate the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.0s-0.6s, 1.6s-6.3s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 473590,
+        "ecg_end": 476090
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 0.2s-4.9s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 473931,
+        "ecg_end": 476431
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 0.0s-4.2s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 474112,
+        "ecg_end": 476612
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.0s-4.4s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 474052,
+        "ecg_end": 476552
+    },
+    {
+        "question": "I need to find the Premature ventricular contraction on this ECG; where should I look?",
+        "answer": "Duration: 0.2s-4.9s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 473940,
+        "ecg_end": 476440
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 0.9s-5.6s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 473753,
+        "ecg_end": 476253
+    },
+    {
+        "question": "Can you show me where the Premature ventricular contraction occurred on this ECG?",
+        "answer": "Duration: 0.0s-4.5s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 474048,
+        "ecg_end": 476548
+    },
+    {
+        "question": "Where is the Premature ventricular contraction located in this ECG?",
+        "answer": "Duration: 1.6s-4.2s, 4.5s-7.4s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 477395,
+        "ecg_end": 479895
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 2.0s-4.6s, 4.9s-7.8s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 477301,
+        "ecg_end": 479801
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "Duration: 0.6s-3.2s, 3.5s-6.5s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 477641,
+        "ecg_end": 480141
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.7s-3.3s, 3.5s-6.5s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 477633,
+        "ecg_end": 480133
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 1.2s-3.8s, 4.1s-7.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 477495,
+        "ecg_end": 479995
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "Duration: 1.1s-3.7s, 4.0s-6.9s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 477527,
+        "ecg_end": 480027
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.4s-4.0s, 4.3s-7.2s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 477445,
+        "ecg_end": 479945
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.2s-2.8s, 3.0s-6.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 477758,
+        "ecg_end": 480258
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 1.7s-4.3s, 4.5s-7.5s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 477382,
+        "ecg_end": 479882
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.0s-2.5s, 2.8s-5.7s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 477820,
+        "ecg_end": 480320
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Premature ventricular contraction.Where does the Premature ventricular contraction appear in this ECG?",
+        "answer": "Duration: 0.0s-1.3s, 1.6s-4.5s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 478127,
+        "ecg_end": 480627
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Premature ventricular contraction.Where does the Premature ventricular contraction appear in this ECG?",
+        "answer": "Duration: 0.0s-2.7s, 9.7s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 478580,
+        "ecg_end": 481080
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.0s-1.2s, 1.5s-4.5s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 478143,
+        "ecg_end": 480643
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.0s-0.4s, 0.6s-3.6s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 478356,
+        "ecg_end": 480856
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.0s-0.9s, 1.2s-4.1s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 478224,
+        "ecg_end": 480724
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Premature ventricular contraction.Where does the Premature ventricular contraction appear in this ECG?",
+        "answer": "Duration: 0.0s-2.6s, 9.6s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 478617,
+        "ecg_end": 481117
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.2s-3.1s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 478471,
+        "ecg_end": 480971
+    },
+    {
+        "question": "Where is the Premature ventricular contraction located in this ECG?",
+        "answer": "Duration: 0.0s-2.5s, 9.6s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 478626,
+        "ecg_end": 481126
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 0.0s-0.4s, 0.7s-3.7s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 478340,
+        "ecg_end": 480840
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Premature ventricular contraction.Where does the Premature ventricular contraction appear in this ECG?",
+        "answer": "Duration: 0.0s-0.8s, 1.0s-4.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 478263,
+        "ecg_end": 480763
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 1.2s-3.3s, 9.9s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 480702,
+        "ecg_end": 483202
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 1.2s-3.3s, 9.8s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 480705,
+        "ecg_end": 483205
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.9s-3.0s, 9.5s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 480780,
+        "ecg_end": 483280
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 1.7s-3.8s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 480584,
+        "ecg_end": 483084
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.5s-3.6s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 480647,
+        "ecg_end": 483147
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 1.8s-3.9s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 480553,
+        "ecg_end": 483053
+    },
+    {
+        "question": "Where is the Premature ventricular contraction located in this ECG?",
+        "answer": "Duration: 0.0s-1.9s, 8.4s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 481067,
+        "ecg_end": 483567
+    },
+    {
+        "question": "Examine this ECG and point out where the Premature ventricular contraction is located.",
+        "answer": "Duration: 0.0s-1.9s, 8.5s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 481051,
+        "ecg_end": 483551
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "Duration: 0.0s-2.0s, 8.5s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 481048,
+        "ecg_end": 483548
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 1.1s-3.2s, 9.7s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 480734,
+        "ecg_end": 483234
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 0.3s-2.3s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 483095,
+        "ecg_end": 485595
+    },
+    {
+        "question": "Could you point out where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.9s-2.9s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 482947,
+        "ecg_end": 485447
+    },
+    {
+        "question": "Can you locate the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.0s-2.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 483170,
+        "ecg_end": 485670
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 1.7s-3.7s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 482750,
+        "ecg_end": 485250
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 1.5s-3.6s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 482784,
+        "ecg_end": 485284
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 0.0s-1.6s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 483267,
+        "ecg_end": 485767
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "Duration: 1.2s-3.3s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 482860,
+        "ecg_end": 485360
+    },
+    {
+        "question": "Examine this ECG and point out where the Premature ventricular contraction is located.",
+        "answer": "Duration: 1.9s-4.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 482682,
+        "ecg_end": 485182
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "Duration: 1.5s-3.6s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 482785,
+        "ecg_end": 485285
+    },
+    {
+        "question": "Check this ECG and tell me where the Premature ventricular contraction appears.",
+        "answer": "Duration: 0.5s-2.5s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 483046,
+        "ecg_end": 485546
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 0.6s-3.1s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 487246,
+        "ecg_end": 489746
+    },
+    {
+        "question": "Tell me where to find the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.7s-4.2s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 486969,
+        "ecg_end": 489469
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "Duration: 1.4s-3.9s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 487055,
+        "ecg_end": 489555
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 1.8s-4.3s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 486952,
+        "ecg_end": 489452
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.0s-2.3s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 487453,
+        "ecg_end": 489953
+    },
+    {
+        "question": "Tell me where to find the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.9s-4.4s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 486933,
+        "ecg_end": 489433
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 1.2s-3.7s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 487099,
+        "ecg_end": 489599
+    },
+    {
+        "question": "Where is the Premature ventricular contraction located in this ECG?",
+        "answer": "Duration: 1.5s-4.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 487028,
+        "ecg_end": 489528
+    },
+    {
+        "question": "Can you locate the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 1.6s-4.1s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 486999,
+        "ecg_end": 489499
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 1.5s-4.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 487024,
+        "ecg_end": 489524
+    },
+    {
+        "question": "Can you show me where the Premature ventricular contraction occurred on this ECG?",
+        "answer": "Duration: 0.0s-1.3s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 497128,
+        "ecg_end": 499628
+    },
+    {
+        "question": "Check this ECG and tell me where the Premature ventricular contraction appears.",
+        "answer": "Duration: 1.2s-3.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 496707,
+        "ecg_end": 499207
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 1.5s-3.3s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 496634,
+        "ecg_end": 499134
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 1.1s-2.9s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 496723,
+        "ecg_end": 499223
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.9s-3.7s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 496531,
+        "ecg_end": 499031
+    },
+    {
+        "question": "Tell me where to find the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.3s-2.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 496943,
+        "ecg_end": 499443
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.9s-2.7s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 496774,
+        "ecg_end": 499274
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 1.1s-2.9s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 496734,
+        "ecg_end": 499234
+    },
+    {
+        "question": "Can you locate the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.8s-2.5s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 496816,
+        "ecg_end": 499316
+    },
+    {
+        "question": "Check this ECG and tell me where the Premature ventricular contraction appears.",
+        "answer": "Duration: 0.2s-2.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 496954,
+        "ecg_end": 499454
+    },
+    {
+        "question": "I need to find the Premature ventricular contraction on this ECG; where should I look?",
+        "answer": "Duration: 1.8s-4.5s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 501747,
+        "ecg_end": 504247
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 0.1s-2.8s, 9.1s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 502163,
+        "ecg_end": 504663
+    },
+    {
+        "question": "Tell me where to find the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.0s-2.3s, 8.6s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 502295,
+        "ecg_end": 504795
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 0.4s-3.2s, 9.5s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 502085,
+        "ecg_end": 504585
+    },
+    {
+        "question": "Can you locate the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.9s-3.7s, 10.0s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 501951,
+        "ecg_end": 504451
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 0.1s-2.8s, 9.1s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 502166,
+        "ecg_end": 504666
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is on this electrocardiogram.",
+        "answer": "Duration: 1.3s-4.1s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 501858,
+        "ecg_end": 504358
+    },
+    {
+        "question": "Check this ECG and tell me where the Premature ventricular contraction appears.",
+        "answer": "Duration: 1.8s-4.5s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 501744,
+        "ecg_end": 504244
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 1.3s-4.1s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 501850,
+        "ecg_end": 504350
+    },
+    {
+        "question": "Examine this ECG and point out where the Premature ventricular contraction is located.",
+        "answer": "Duration: 0.0s-2.6s, 8.9s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 502227,
+        "ecg_end": 504727
+    },
+    {
+        "question": "Could you point out where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 1.5s-4.3s, 9.1s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 504068,
+        "ecg_end": 506568
+    },
+    {
+        "question": "Can you show me where the Premature ventricular contraction occurred on this ECG?",
+        "answer": "Duration: 1.3s-4.0s, 8.9s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 504127,
+        "ecg_end": 506627
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 0.1s-2.8s, 7.7s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 504430,
+        "ecg_end": 506930
+    },
+    {
+        "question": "I need to find the Premature ventricular contraction on this ECG; where should I look?",
+        "answer": "Duration: 0.0s-2.4s, 7.3s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 504530,
+        "ecg_end": 507030
+    },
+    {
+        "question": "Can you locate the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.7s-3.5s, 8.3s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 504266,
+        "ecg_end": 506766
+    },
+    {
+        "question": "Examine this ECG and point out where the Premature ventricular contraction is located.",
+        "answer": "Duration: 0.4s-3.2s, 8.0s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 504345,
+        "ecg_end": 506845
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.4s-4.1s, 9.0s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 504105,
+        "ecg_end": 506605
+    },
+    {
+        "question": "Could you point out where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 2.0s-4.7s, 9.6s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 503960,
+        "ecg_end": 506460
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 1.7s-4.4s, 9.3s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 504028,
+        "ecg_end": 506528
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 1.8s-4.6s, 9.4s-10.0s",
+        "ecg_path": [
+            "e0103"
+        ],
+        "dataset": "european_st_t",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 503994,
+        "ecg_end": 506494
+    }
+]

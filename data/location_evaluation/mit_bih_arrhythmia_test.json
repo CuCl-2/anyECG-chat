@@ -1,0 +1,1002 @@
+[
+    {
+        "question": "Locate the Left bundle branch block beat on this ECG for me, please.",
+        "answer": "No Left bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "L",
+        "ecg_start": 201979,
+        "ecg_end": 205579
+    },
+    {
+        "question": "Examine this ECG and point out where the Left bundle branch block beat is located.",
+        "answer": "No Left bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "L",
+        "ecg_start": 21225,
+        "ecg_end": 24825
+    },
+    {
+        "question": "Where should I look to find the Left bundle branch block beat on this ECG?",
+        "answer": "No Left bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "L",
+        "ecg_start": 268055,
+        "ecg_end": 271655
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Left bundle branch block beat.Where does the Left bundle branch block beat appear in this ECG?",
+        "answer": "No Left bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "L",
+        "ecg_start": 212302,
+        "ecg_end": 215902
+    },
+    {
+        "question": "Can you locate the Left bundle branch block beat on this ECG?",
+        "answer": "No Left bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "L",
+        "ecg_start": 249874,
+        "ecg_end": 253474
+    },
+    {
+        "question": "Determine where the Left bundle branch block beat is on this electrocardiogram.",
+        "answer": "No Left bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "L",
+        "ecg_start": 305860,
+        "ecg_end": 309460
+    },
+    {
+        "question": "Please locate the specific location of the Left bundle branch block beat on this ECG.",
+        "answer": "No Left bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "L",
+        "ecg_start": 264601,
+        "ecg_end": 268201
+    },
+    {
+        "question": "Please locate the specific location of the Left bundle branch block beat on this ECG.",
+        "answer": "No Left bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "L",
+        "ecg_start": 147764,
+        "ecg_end": 151364
+    },
+    {
+        "question": "Tell me where to find the Left bundle branch block beat on this ECG.",
+        "answer": "No Left bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "L",
+        "ecg_start": 396259,
+        "ecg_end": 399859
+    },
+    {
+        "question": "Examine this ECG and point out where the Left bundle branch block beat is located.",
+        "answer": "No Left bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "L",
+        "ecg_start": 324203,
+        "ecg_end": 327803
+    },
+    {
+        "question": "Please locate the specific location of the Right bundle branch block beat on this ECG.",
+        "answer": "No Right bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "R",
+        "ecg_start": 279216,
+        "ecg_end": 282816
+    },
+    {
+        "question": "Tell me where to find the Right bundle branch block beat on this ECG.",
+        "answer": "No Right bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "R",
+        "ecg_start": 162606,
+        "ecg_end": 166206
+    },
+    {
+        "question": "Could you identify where the Right bundle branch block beat is on this ECG?",
+        "answer": "No Right bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "R",
+        "ecg_start": 382642,
+        "ecg_end": 386242
+    },
+    {
+        "question": "On this ECG, where can I see the Right bundle branch block beat?",
+        "answer": "No Right bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "R",
+        "ecg_start": 358604,
+        "ecg_end": 362204
+    },
+    {
+        "question": "Help me locate the Right bundle branch block beat on this ECG.",
+        "answer": "No Right bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "R",
+        "ecg_start": 247538,
+        "ecg_end": 251138
+    },
+    {
+        "question": "Can you locate the Right bundle branch block beat on this ECG?",
+        "answer": "No Right bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "R",
+        "ecg_start": 52796,
+        "ecg_end": 56396
+    },
+    {
+        "question": "On this ECG, where can I see the Right bundle branch block beat?",
+        "answer": "No Right bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "R",
+        "ecg_start": 227631,
+        "ecg_end": 231231
+    },
+    {
+        "question": "Determine where the Right bundle branch block beat is on this electrocardiogram.",
+        "answer": "No Right bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "R",
+        "ecg_start": 320280,
+        "ecg_end": 323880
+    },
+    {
+        "question": "Where should I look to find the Right bundle branch block beat on this ECG?",
+        "answer": "No Right bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "R",
+        "ecg_start": 289681,
+        "ecg_end": 293281
+    },
+    {
+        "question": "I need to find the Right bundle branch block beat on this ECG; where should I look?",
+        "answer": "No Right bundle branch block beat Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "R",
+        "ecg_start": 232098,
+        "ecg_end": 235698
+    },
+    {
+        "question": "Locate the Premature ventricular contraction on this ECG for me, please.",
+        "answer": "Duration: 1.3s-2.9s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 546145,
+        "ecg_end": 549745
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "Duration: 0.0s-1.4s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 546703,
+        "ecg_end": 550303
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 2.0s-3.6s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 545893,
+        "ecg_end": 549493
+    },
+    {
+        "question": "Where is the Premature ventricular contraction located in this ECG?",
+        "answer": "Duration: 0.0s-1.6s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 546615,
+        "ecg_end": 550215
+    },
+    {
+        "question": "Can you show me where the Premature ventricular contraction occurred on this ECG?",
+        "answer": "Duration: 0.0s-1.6s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 546606,
+        "ecg_end": 550206
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "Duration: 0.3s-1.9s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 546505,
+        "ecg_end": 550105
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 0.0s-1.3s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 546726,
+        "ecg_end": 550326
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "Duration: 1.3s-3.0s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 546128,
+        "ecg_end": 549728
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "Duration: 0.0s-1.7s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 546599,
+        "ecg_end": 550199
+    },
+    {
+        "question": "Determine where the Premature ventricular contraction is located on this electrocardiogram.",
+        "answer": "Duration: 1.5s-3.1s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 546074,
+        "ecg_end": 549674
+    },
+    {
+        "question": "Help me find where the Premature ventricular contraction shows up on this ECG.",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 116236,
+        "ecg_end": 119836
+    },
+    {
+        "question": "Please locate the specific location of the Premature ventricular contraction on this ECG.",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 421184,
+        "ecg_end": 424784
+    },
+    {
+        "question": "Help me locate the Premature ventricular contraction on this ECG.",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 421097,
+        "ecg_end": 424697
+    },
+    {
+        "question": "Could you identify where the Premature ventricular contraction is on this ECG?",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 234865,
+        "ecg_end": 238465
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 42176,
+        "ecg_end": 45776
+    },
+    {
+        "question": "Where should I look to find the Premature ventricular contraction on this ECG?",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 266307,
+        "ecg_end": 269907
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Premature ventricular contraction.Where does the Premature ventricular contraction appear in this ECG?",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 57177,
+        "ecg_end": 60777
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Premature ventricular contraction.Where does the Premature ventricular contraction appear in this ECG?",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 289022,
+        "ecg_end": 292622
+    },
+    {
+        "question": "Tell me where to find the Premature ventricular contraction on this ECG.",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 370441,
+        "ecg_end": 374041
+    },
+    {
+        "question": "On this ECG, where can I see the Premature ventricular contraction?",
+        "answer": "No Premature ventricular contraction Found",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "V",
+        "ecg_start": 287016,
+        "ecg_end": 290616
+    },
+    {
+        "question": "Help me locate the Atrial premature beat on this ECG.",
+        "answer": "Duration: 0.0s-1.3s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 1923,
+        "ecg_end": 5523
+    },
+    {
+        "question": "Help me locate the Atrial premature beat on this ECG.",
+        "answer": "Duration: 1.4s-3.1s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 1297,
+        "ecg_end": 4897
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Atrial premature beat.Where does the Atrial premature beat appear in this ECG?",
+        "answer": "Duration: 0.3s-2.0s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 1690,
+        "ecg_end": 5290
+    },
+    {
+        "question": "Could you identify where the Atrial premature beat is on this ECG?",
+        "answer": "Duration: 0.7s-2.4s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 1544,
+        "ecg_end": 5144
+    },
+    {
+        "question": "Where is the Atrial premature beat located in this ECG?",
+        "answer": "Duration: 0.3s-2.0s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 1699,
+        "ecg_end": 5299
+    },
+    {
+        "question": "Determine where the Atrial premature beat is located on this electrocardiogram.",
+        "answer": "Duration: 1.1s-2.7s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 1413,
+        "ecg_end": 5013
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Atrial premature beat.Where does the Atrial premature beat appear in this ECG?",
+        "answer": "Duration: 1.3s-3.0s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 1336,
+        "ecg_end": 4936
+    },
+    {
+        "question": "Determine where the Atrial premature beat is on this electrocardiogram.",
+        "answer": "Duration: 1.5s-3.1s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 1277,
+        "ecg_end": 4877
+    },
+    {
+        "question": "Check this ECG and tell me where the Atrial premature beat appears.",
+        "answer": "Duration: 0.0s-1.3s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 1930,
+        "ecg_end": 5530
+    },
+    {
+        "question": "Examine this ECG and point out where the Atrial premature beat is located.",
+        "answer": "Duration: 1.9s-3.6s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 1122,
+        "ecg_end": 4722
+    },
+    {
+        "question": "Could you identify where the Atrial premature beat is on this ECG?",
+        "answer": "Duration: 0.6s-2.1s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 66371,
+        "ecg_end": 69971
+    },
+    {
+        "question": "Please locate the specific location of the Atrial premature beat on this ECG.",
+        "answer": "Duration: 1.7s-3.2s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 65975,
+        "ecg_end": 69575
+    },
+    {
+        "question": "Please locate the specific location of the Atrial premature beat on this ECG.",
+        "answer": "Duration: 0.0s-1.0s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 66781,
+        "ecg_end": 70381
+    },
+    {
+        "question": "Could you identify where the Atrial premature beat is on this ECG?",
+        "answer": "Duration: 1.9s-3.4s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 65923,
+        "ecg_end": 69523
+    },
+    {
+        "question": "Help me locate the Atrial premature beat on this ECG.",
+        "answer": "Duration: 0.0s-1.5s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 66600,
+        "ecg_end": 70200
+    },
+    {
+        "question": "Where is the Atrial premature beat located in this ECG?",
+        "answer": "Duration: 0.1s-1.5s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 66583,
+        "ecg_end": 70183
+    },
+    {
+        "question": "I need to find the Atrial premature beat on this ECG; where should I look?",
+        "answer": "Duration: 0.0s-1.1s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 66741,
+        "ecg_end": 70341
+    },
+    {
+        "question": "I need to find the Atrial premature beat on this ECG; where should I look?",
+        "answer": "Duration: 1.2s-2.7s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 66166,
+        "ecg_end": 69766
+    },
+    {
+        "question": "Help me find where the Atrial premature beat shows up on this ECG.",
+        "answer": "Duration: 0.0s-1.2s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 66715,
+        "ecg_end": 70315
+    },
+    {
+        "question": "Determine where the Atrial premature beat is on this electrocardiogram.",
+        "answer": "Duration: 0.0s-1.0s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 66753,
+        "ecg_end": 70353
+    },
+    {
+        "question": "Determine where the Atrial premature beat is located on this electrocardiogram.",
+        "answer": "Duration: 0.1s-1.6s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 74742,
+        "ecg_end": 78342
+    },
+    {
+        "question": "Locate the Atrial premature beat on this ECG for me, please.",
+        "answer": "Duration: 0.0s-1.2s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 74892,
+        "ecg_end": 78492
+    },
+    {
+        "question": "Examine this ECG and point out where the Atrial premature beat is located.",
+        "answer": "Duration: 0.4s-1.9s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 74640,
+        "ecg_end": 78240
+    },
+    {
+        "question": "Where should I look to find the Atrial premature beat on this ECG?",
+        "answer": "Duration: 0.7s-2.3s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 74508,
+        "ecg_end": 78108
+    },
+    {
+        "question": "Can you locate the Atrial premature beat on this ECG?",
+        "answer": "Duration: 0.1s-1.7s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 74723,
+        "ecg_end": 78323
+    },
+    {
+        "question": "On this ECG, where can I see the Atrial premature beat?",
+        "answer": "Duration: 1.8s-3.3s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 74131,
+        "ecg_end": 77731
+    },
+    {
+        "question": "Tell me where to find the Atrial premature beat on this ECG.",
+        "answer": "Duration: 0.3s-1.8s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 74674,
+        "ecg_end": 78274
+    },
+    {
+        "question": "Determine where the Atrial premature beat is located on this electrocardiogram.",
+        "answer": "Duration: 0.6s-2.2s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 74545,
+        "ecg_end": 78145
+    },
+    {
+        "question": "On this ECG, where can I see the Atrial premature beat?",
+        "answer": "Duration: 0.2s-1.8s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 74692,
+        "ecg_end": 78292
+    },
+    {
+        "question": "Determine where the Atrial premature beat is on this electrocardiogram.",
+        "answer": "Duration: 0.0s-1.2s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 74912,
+        "ecg_end": 78512
+    },
+    {
+        "question": "Can you show me where the Atrial premature beat occurred on this ECG?",
+        "answer": "Duration: 1.3s-2.8s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 98910,
+        "ecg_end": 102510
+    },
+    {
+        "question": "Examine this ECG and point out where the Atrial premature beat is located.",
+        "answer": "Duration: 0.0s-1.4s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 99411,
+        "ecg_end": 103011
+    },
+    {
+        "question": "Help me find where the Atrial premature beat shows up on this ECG.",
+        "answer": "Duration: 1.7s-3.2s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 98781,
+        "ecg_end": 102381
+    },
+    {
+        "question": "Check this ECG and tell me where the Atrial premature beat appears.",
+        "answer": "Duration: 0.9s-2.5s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 99042,
+        "ecg_end": 102642
+    },
+    {
+        "question": "Locate the Atrial premature beat on this ECG for me, please.",
+        "answer": "Duration: 1.1s-2.6s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 99002,
+        "ecg_end": 102602
+    },
+    {
+        "question": "Locate the Atrial premature beat on this ECG for me, please.",
+        "answer": "Duration: 0.0s-1.2s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 99497,
+        "ecg_end": 103097
+    },
+    {
+        "question": "Please locate the specific location of the Atrial premature beat on this ECG.",
+        "answer": "Duration: 1.7s-3.2s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 98765,
+        "ecg_end": 102365
+    },
+    {
+        "question": "Help me find where the Atrial premature beat shows up on this ECG.",
+        "answer": "Duration: 0.0s-1.1s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 99537,
+        "ecg_end": 103137
+    },
+    {
+        "question": "Determine where the Atrial premature beat is located on this electrocardiogram.",
+        "answer": "Duration: 1.9s-3.4s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 98708,
+        "ecg_end": 102308
+    },
+    {
+        "question": "Help me locate the Atrial premature beat on this ECG.",
+        "answer": "Duration: 0.2s-1.7s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 99311,
+        "ecg_end": 102911
+    },
+    {
+        "question": "Could you identify where the Atrial premature beat is on this ECG?",
+        "answer": "Duration: 0.3s-1.8s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 127788,
+        "ecg_end": 131388
+    },
+    {
+        "question": "Tell me where to find the Atrial premature beat on this ECG.",
+        "answer": "Duration: 1.9s-3.4s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 127199,
+        "ecg_end": 130799
+    },
+    {
+        "question": "Determine where the Atrial premature beat is on this electrocardiogram.",
+        "answer": "Duration: 0.2s-1.7s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 127822,
+        "ecg_end": 131422
+    },
+    {
+        "question": "Determine where the Atrial premature beat is located on this electrocardiogram.",
+        "answer": "Duration: 0.3s-1.8s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 127792,
+        "ecg_end": 131392
+    },
+    {
+        "question": "Where is the Atrial premature beat located in this ECG?",
+        "answer": "Duration: 1.7s-3.1s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 127294,
+        "ecg_end": 130894
+    },
+    {
+        "question": "Can you locate the Atrial premature beat on this ECG?",
+        "answer": "Duration: 1.7s-3.2s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 127265,
+        "ecg_end": 130865
+    },
+    {
+        "question": "Tell me where to find the Atrial premature beat on this ECG.",
+        "answer": "Duration: 0.0s-1.1s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 128025,
+        "ecg_end": 131625
+    },
+    {
+        "question": "Can you show me where the Atrial premature beat occurred on this ECG?",
+        "answer": "Duration: 1.9s-3.4s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 127209,
+        "ecg_end": 130809
+    },
+    {
+        "question": "Check this ECG and tell me where the Atrial premature beat appears.",
+        "answer": "Duration: 1.4s-2.9s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 127371,
+        "ecg_end": 130971
+    },
+    {
+        "question": "Tell me where to find the Atrial premature beat on this ECG.",
+        "answer": "Duration: 0.0s-1.4s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 127907,
+        "ecg_end": 131507
+    },
+    {
+        "question": "Determine where the Atrial premature beat is on this electrocardiogram.",
+        "answer": "Duration: 0.6s-2.2s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 170265,
+        "ecg_end": 173865
+    },
+    {
+        "question": "Locate the Atrial premature beat on this ECG for me, please.",
+        "answer": "Duration: 0.0s-1.5s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 170519,
+        "ecg_end": 174119
+    },
+    {
+        "question": "Can you show me where the Atrial premature beat occurred on this ECG?",
+        "answer": "Duration: 0.1s-1.7s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 170470,
+        "ecg_end": 174070
+    },
+    {
+        "question": "Locate the Atrial premature beat on this ECG for me, please.",
+        "answer": "Duration: 0.5s-2.1s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 170332,
+        "ecg_end": 173932
+    },
+    {
+        "question": "Tell me where to find the Atrial premature beat on this ECG.",
+        "answer": "Duration: 0.2s-1.8s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 170410,
+        "ecg_end": 174010
+    },
+    {
+        "question": "Examine this ECG and point out where the Atrial premature beat is located.",
+        "answer": "Duration: 0.0s-1.2s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 170630,
+        "ecg_end": 174230
+    },
+    {
+        "question": "Help me find where the Atrial premature beat shows up on this ECG.",
+        "answer": "Duration: 1.8s-3.4s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 169846,
+        "ecg_end": 173446
+    },
+    {
+        "question": "Assess this ECG and specify the location of the Atrial premature beat.Where does the Atrial premature beat appear in this ECG?",
+        "answer": "Duration: 1.8s-3.4s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 169848,
+        "ecg_end": 173448
+    },
+    {
+        "question": "Locate the Atrial premature beat on this ECG for me, please.",
+        "answer": "Duration: 1.0s-2.6s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 170133,
+        "ecg_end": 173733
+    },
+    {
+        "question": "Locate the Atrial premature beat on this ECG for me, please.",
+        "answer": "Duration: 1.5s-3.1s",
+        "ecg_path": "100",
+        "dataset": "mit_bih_arrhythmia",
+        "task": "location",
+        "abnormal_type": "A",
+        "ecg_start": 169959,
+        "ecg_end": 173559
+    }
+]

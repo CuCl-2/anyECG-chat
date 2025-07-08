@@ -1,0 +1,1066 @@
+[
+    {
+        "question": "What are the key findings in each ECG report?",
+        "answer": "ECG1: Sinus bradycardia, normal ECG except for rate. ECG2: Sinus bradycardia, low QRS voltages in precordial leads, borderline ECG.",
+        "ecg_path": [
+            "files/p1250/p12506298/s45054793/45054793",
+            "files/p1250/p12506298/s43662717/43662717"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the ECG reports compare over time, from 2179-02-01 to 2182-05-10?",
+        "answer": "From 2179-02-01 to 2182-05-10, the ECG reports show consistent sinus bradycardia, but with additional findings of low QRS voltages in precordial leads and a borderline ECG in the later report.",
+        "ecg_path": [
+            "files/p1250/p12506298/s45054793/45054793",
+            "files/p1250/p12506298/s43662717/43662717"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What changes occur in the ECGs over the 1193-day period?",
+        "answer": "Over 1193 days, the ECGs show a progression from a normal ECG with sinus bradycardia to a borderline ECG with low QRS voltages in precordial leads, indicating potential cardiac changes.",
+        "ecg_path": [
+            "files/p1250/p12506298/s45054793/45054793",
+            "files/p1250/p12506298/s43662717/43662717"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "The first ECG was collected 1193 days ago, what can be inferred about the patient's cardiac condition at that time?",
+        "answer": "1193 days ago, the patient's ECG showed sinus bradycardia but was otherwise normal, suggesting a relatively stable cardiac condition at that time.",
+        "ecg_path": [
+            "files/p1250/p12506298/s45054793/45054793",
+            "files/p1250/p12506298/s43662717/43662717"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the implications of the low QRS voltages in precordial leads found in the second ECG?",
+        "answer": "Low QRS voltages in precordial leads may indicate potential cardiac conditions such as cardiomyopathy or cardiac amyloidosis, requiring further evaluation.",
+        "ecg_path": [
+            "files/p1250/p12506298/s45054793/45054793",
+            "files/p1250/p12506298/s43662717/43662717"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How might the findings from these ECGs influence future cardiac monitoring or treatment plans?",
+        "answer": "The progression from a normal to a borderline ECG may necessitate more frequent monitoring, further diagnostic tests, or adjustments in treatment to address potential underlying cardiac conditions.",
+        "ecg_path": [
+            "files/p1250/p12506298/s45054793/45054793",
+            "files/p1250/p12506298/s43662717/43662717"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "The ECGs were taken on 2179-02-01 and 2182-05-10, what do these reports suggest about the patient's cardiac rhythm over this period?",
+        "answer": "These reports suggest that the patient has maintained a sinus bradycardia rhythm over the period from 2179-02-01 to 2182-05-10, but with evolving ECG abnormalities.",
+        "ecg_path": [
+            "files/p1250/p12506298/s45054793/45054793",
+            "files/p1250/p12506298/s43662717/43662717"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the time elapsed between the two ECGs, what are possible trends in the patient's cardiac condition?",
+        "answer": "Given the 1193-day interval, possible trends include the progression of cardiac conditions leading to low QRS voltages, or the development of new conditions that may require medical attention.",
+        "ecg_path": [
+            "files/p1250/p12506298/s45054793/45054793",
+            "files/p1250/p12506298/s43662717/43662717"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the key findings from the two ECG reports collected on 2184-07-07 and 2186-02-16?",
+        "answer": "The first ECG from 2184-07-07 shows sinus rhythm with lateral T wave changes, and the second ECG from 2186-02-16 shows sinus rhythm with extensive T wave changes, both are borderline ECGs.",
+        "ecg_path": [
+            "files/p1250/p12504543/s42968506/42968506",
+            "files/p1250/p12504543/s45451350/45451350"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the T wave changes in the ECGs collected 0 and 588 days ago compare?",
+        "answer": "The T wave changes in the ECG collected 588 days ago are more extensive compared to the one collected 0 days ago, indicating possible progression of underlying conditions.",
+        "ecg_path": [
+            "files/p1250/p12504543/s42968506/42968506",
+            "files/p1250/p12504543/s45451350/45451350"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What can be inferred about the patient's cardiac condition based on the ECG reports?",
+        "answer": "The patient's cardiac condition appears to be relatively stable with sinus rhythm maintained, but the T wave changes suggest some underlying cardiac issue that needs monitoring.",
+        "ecg_path": [
+            "files/p1250/p12504543/s42968506/42968506",
+            "files/p1250/p12504543/s45451350/45451350"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What is the significance of the T wave changes in the context of the patient's ECG history?",
+        "answer": "The T wave changes, although nonspecific, indicate a potential issue with the heart's ventricular function, and their progression over time, as seen from the ECGs collected 0 and 588 days ago, warrants further investigation.",
+        "ecg_path": [
+            "files/p1250/p12504543/s42968506/42968506",
+            "files/p1250/p12504543/s45451350/45451350"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How might the findings from these ECGs influence future cardiac monitoring and management?",
+        "answer": "The findings from these ECGs suggest the need for continued monitoring of the T wave changes and potentially other diagnostic tests to determine the cause and significance of these changes, guiding management decisions.",
+        "ecg_path": [
+            "files/p1250/p12504543/s42968506/42968506",
+            "files/p1250/p12504543/s45451350/45451350"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Compare the ECG collected on 2184-07-07 with the one collected 588 days later, what changes are observed?",
+        "answer": "The main change observed between the two ECGs is the progression from lateral T wave changes to extensive T wave changes, both of which are nonspecific but indicate a possible worsening of the underlying condition.",
+        "ecg_path": [
+            "files/p1250/p12504543/s42968506/42968506",
+            "files/p1250/p12504543/s45451350/45451350"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the implications of the borderline ECG classification for both reports collected on 2184-07-07 and 2186-02-16?",
+        "answer": "The borderline ECG classification for both reports suggests that while there are abnormal findings, such as the T wave changes, they are not definitive for a specific cardiac condition, requiring further evaluation or monitoring to determine their significance.",
+        "ecg_path": [
+            "files/p1250/p12504543/s42968506/42968506",
+            "files/p1250/p12504543/s45451350/45451350"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the time elapsed between the two ECGs, what trends or patterns can be identified in the patient's cardiac status?",
+        "answer": "Over the 588 days between the ECGs, there is a trend towards more extensive T wave changes, suggesting a possible gradual deterioration or progression of the underlying cardiac condition, although the sinus rhythm is maintained.",
+        "ecg_path": [
+            "files/p1250/p12504543/s42968506/42968506",
+            "files/p1250/p12504543/s45451350/45451350"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the key findings from each ECG report?",
+        "answer": "ECG1: Sinus rhythm, probable inferior infarct old, borderline ST elevation in anterolateral leads. ECG2: Sinus rhythm, probable inferior infarct old, anterolateral infarct age indeterminate.",
+        "ecg_path": [
+            "files/p1250/p12504135/s45521460/45521460",
+            "files/p1250/p12504135/s40329240/40329240"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the ECG reports from 2123-11-18 and 2123-11-24 compare in terms of infarct findings?",
+        "answer": "Both ECGs indicate a probable inferior infarct, old, but the second ECG also mentions an anterolateral infarct of indeterminate age, suggesting possible progression or additional cardiac event.",
+        "ecg_path": [
+            "files/p1250/p12504135/s45521460/45521460",
+            "files/p1250/p12504135/s40329240/40329240"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What can be inferred about the patient's cardiac condition over the 6-day period between ECG collections?",
+        "answer": "The patient's cardiac condition shows signs of possible progression or additional cardiac event, as indicated by the new finding of an anterolateral infarct in the second ECG, while the inferior infarct remains old.",
+        "ecg_path": [
+            "files/p1250/p12504135/s45521460/45521460",
+            "files/p1250/p12504135/s40329240/40329240"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "The first ECG was collected 6 days prior to the second. What changes are observed in the cardiac rhythm?",
+        "answer": "No changes are observed in the cardiac rhythm, as both ECGs report a sinus rhythm.",
+        "ecg_path": [
+            "files/p1250/p12504135/s45521460/45521460",
+            "files/p1250/p12504135/s40329240/40329240"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the implications of the borderline ST elevation in the anterolateral leads in the first ECG?",
+        "answer": "The borderline ST elevation may indicate potential cardiac damage or ischemia in the anterolateral region, which is further supported by the finding of an anterolateral infarct in the second ECG.",
+        "ecg_path": [
+            "files/p1250/p12504135/s45521460/45521460",
+            "files/p1250/p12504135/s40329240/40329240"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How might the findings from these ECGs influence future cardiac monitoring and management?",
+        "answer": "The findings suggest the need for continued monitoring of the patient's cardiac condition, particularly with regard to the anterolateral infarct and potential for further cardiac events, and may inform management decisions regarding treatment and prevention of future infarcts.",
+        "ecg_path": [
+            "files/p1250/p12504135/s45521460/45521460",
+            "files/p1250/p12504135/s40329240/40329240"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "The ECGs were collected on 2123-11-18 and 2123-11-24. What is the significance of the consistent finding of a probable inferior infarct, old?",
+        "answer": "The consistent finding of a probable inferior infarct, old, suggests that the patient had a previous cardiac event, and the infarct is now chronic, with the more recent ECG showing additional cardiac involvement in the anterolateral region.",
+        "ecg_path": [
+            "files/p1250/p12504135/s45521460/45521460",
+            "files/p1250/p12504135/s40329240/40329240"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the 6-day time frame between the two ECGs, what potential factors could contribute to the observed changes in the ECG findings?",
+        "answer": "Potential factors contributing to the observed changes include progression of the cardiac disease, new cardiac events, or changes in the patient's underlying medical condition, which may have led to the development of the anterolateral infarct.",
+        "ecg_path": [
+            "files/p1250/p12504135/s45521460/45521460",
+            "files/p1250/p12504135/s40329240/40329240"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the common findings among all the ECG reports collected on 2143-09-12 and 2143-09-13?",
+        "answer": "All ECGs show sinus rhythm, and most indicate ST elevation, with suggestions of acute pericarditis in the later reports.",
+        "ecg_path": [
+            "files/p1250/p12503479/s40182163/40182163",
+            "files/p1250/p12503479/s44597473/44597473",
+            "files/p1250/p12503479/s45700468/45700468",
+            "files/p1250/p12503479/s46488819/46488819"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the ECG reports change from the first collection on 2143-09-12 to the last collection on the same day?",
+        "answer": "The ECG reports from the first to the last collection on 2143-09-12 show a shift from probable normal early repol pattern to ST elevation suggesting acute pericarditis.",
+        "ecg_path": [
+            "files/p1250/p12503479/s40182163/40182163",
+            "files/p1250/p12503479/s44597473/44597473",
+            "files/p1250/p12503479/s45700468/45700468",
+            "files/p1250/p12503479/s46488819/46488819"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What can be inferred about the patient's condition over the 0 days between the first and second ECG collections?",
+        "answer": "Given the 0-day interval, the patient's condition appears to have rapidly progressed or been reassessed, with the second report suggesting acute pericarditis more strongly.",
+        "ecg_path": [
+            "files/p1250/p12503479/s40182163/40182163",
+            "files/p1250/p12503479/s44597473/44597473",
+            "files/p1250/p12503479/s45700468/45700468",
+            "files/p1250/p12503479/s46488819/46488819"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Describe the evolution of the ECG findings from 2143-09-12 to 2143-09-13.",
+        "answer": "From 2143-09-12 to 2143-09-13, the ECG findings evolve from sinus rhythm with ST elevation and a probable normal early repol pattern to more definitive signs of acute pericarditis, including prolonged PR interval and extensive ST elevation.",
+        "ecg_path": [
+            "files/p1250/p12503479/s40182163/40182163",
+            "files/p1250/p12503479/s44597473/44597473",
+            "files/p1250/p12503479/s45700468/45700468",
+            "files/p1250/p12503479/s46488819/46488819"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the implications of the ECG reports for the patient's diagnosis and treatment plan, considering the collections were all made within a short timeframe?",
+        "answer": "The ECG reports imply a diagnosis of acute pericarditis, given the ST elevation and other indicators, suggesting a need for immediate treatment to manage pericarditis and prevent further complications.",
+        "ecg_path": [
+            "files/p1250/p12503479/s40182163/40182163",
+            "files/p1250/p12503479/s44597473/44597473",
+            "files/p1250/p12503479/s45700468/45700468",
+            "files/p1250/p12503479/s46488819/46488819"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How does the presence of ST elevation in all reports, collected on 2143-09-12 and 2143-09-13, influence the interpretation of the patient's condition?",
+        "answer": "The consistent presence of ST elevation across all reports strongly supports the diagnosis of acute pericarditis, as it is a key indicator of this condition, and its persistence suggests an ongoing inflammatory process.",
+        "ecg_path": [
+            "files/p1250/p12503479/s40182163/40182163",
+            "files/p1250/p12503479/s44597473/44597473",
+            "files/p1250/p12503479/s45700468/45700468",
+            "files/p1250/p12503479/s46488819/46488819"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given the ECG reports were collected on the same day or the day after, what does this suggest about the patient's condition and the need for continuous monitoring?",
+        "answer": "The rapid progression or confirmation of acute pericarditis within a day suggests a dynamic condition requiring close monitoring to adjust treatment and prevent complications, indicating the importance of frequent ECG assessments in acute settings.",
+        "ecg_path": [
+            "files/p1250/p12503479/s40182163/40182163",
+            "files/p1250/p12503479/s44597473/44597473",
+            "files/p1250/p12503479/s45700468/45700468",
+            "files/p1250/p12503479/s46488819/46488819"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the ECGs were all collected within a 0 to 0-day timeframe, what does this imply about the urgency and nature of the patient's condition?",
+        "answer": "The collection of multiple ECGs within such a short timeframe implies an urgent and potentially unstable condition, necessitating rapid diagnosis and intervention, which is consistent with the acute presentation of pericarditis.",
+        "ecg_path": [
+            "files/p1250/p12503479/s40182163/40182163",
+            "files/p1250/p12503479/s44597473/44597473",
+            "files/p1250/p12503479/s45700468/45700468",
+            "files/p1250/p12503479/s46488819/46488819"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the similarities and differences between the two ECG reports collected on 2172-12-23 and 2179-08-08?",
+        "answer": "Both ECGs show sinus tachycardia with normal ECG except for rate, indicating consistent tachycardia over time, but no other abnormalities were found in either report.",
+        "ecg_path": [
+            "files/p1250/p12504140/s40081876/40081876",
+            "files/p1250/p12504140/s46924508/46924508"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the ECG reports from 2172-12-23 and 2179-08-08 compare in terms of cardiac rhythm?",
+        "answer": "Both reports indicate sinus tachycardia, suggesting that the cardiac rhythm has remained consistently tachycardic over the approximately 6-year period between the two ECGs.",
+        "ecg_path": [
+            "files/p1250/p12504140/s40081876/40081876",
+            "files/p1250/p12504140/s46924508/46924508"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the key findings from the first ECG collected on 2159-01-19?",
+        "answer": "The first ECG from 2159-01-19 shows possible atrial flutter, inferior T wave changes that are nonspecific, and is classified as an abnormal ECG.",
+        "ecg_path": [
+            "files/p1250/p12505868/s44573426/44573426",
+            "files/p1250/p12505868/s42171961/42171961"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What can be inferred about the patient's condition based on the ECG reports collected 0 and 2419 days apart?",
+        "answer": "The consistent finding of sinus tachycardia with otherwise normal ECG suggests that the patient has a chronic tachycardic condition, but without other significant cardiac abnormalities.",
+        "ecg_path": [
+            "files/p1250/p12504140/s40081876/40081876",
+            "files/p1250/p12504140/s46924508/46924508"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Are there any notable changes or trends in the ECG reports from the initial collection on 2172-12-23 to the follow-up on 2179-08-08?",
+        "answer": "There are no notable changes, as both reports indicate sinus tachycardia with normal ECG except for rate, suggesting a stable, albeit tachycardic, cardiac condition over time.",
+        "ecg_path": [
+            "files/p1250/p12504140/s40081876/40081876",
+            "files/p1250/p12504140/s46924508/46924508"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the T wave changes in the inferior leads evolve from the first ECG to the second ECG collected 127 days later?",
+        "answer": "The inferior T wave changes remain nonspecific from the first ECG to the second ECG, indicating no significant evolution or resolution of these changes over the 127-day period.",
+        "ecg_path": [
+            "files/p1250/p12505868/s44573426/44573426",
+            "files/p1250/p12505868/s42171961/42171961"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the implications of the ECG reports for the patient's future cardiac health, considering the reports from 2172-12-23 and 2179-08-08?",
+        "answer": "The stable finding of sinus tachycardia without other abnormalities may suggest a relatively stable cardiac condition, but ongoing monitoring is necessary to assess for any potential long-term effects of chronic tachycardia.",
+        "ecg_path": [
+            "files/p1250/p12504140/s40081876/40081876",
+            "files/p1250/p12504140/s46924508/46924508"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How might the patient's treatment plan be influenced by the ECG reports collected on 2172-12-23 and 2179-08-08?",
+        "answer": "The treatment plan might focus on managing the chronic tachycardia, potentially including medications to control heart rate, lifestyle modifications, and regular monitoring to prevent or manage any potential complications.",
+        "ecg_path": [
+            "files/p1250/p12504140/s40081876/40081876",
+            "files/p1250/p12504140/s46924508/46924508"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Compare the rhythm findings between the two ECGs collected on 2159-01-19 and 2159-05-26.",
+        "answer": "The rhythm changes from possible atrial flutter in the first ECG to sinus rhythm in the second ECG, indicating an improvement or normalization of the heart rhythm over time.",
+        "ecg_path": [
+            "files/p1250/p12505868/s44573426/44573426",
+            "files/p1250/p12505868/s42171961/42171961"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What do the ECG reports from 0 days ago and 2419 days ago indicate about the patient's cardiac function over time?",
+        "answer": "The reports indicate that the patient has maintained a consistent cardiac rhythm of sinus tachycardia, with no other significant abnormalities detected over the approximately 6-year period.",
+        "ecg_path": [
+            "files/p1250/p12504140/s40081876/40081876",
+            "files/p1250/p12504140/s46924508/46924508"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the ECG reports collected on 2172-12-23 and 2179-08-08, what are the potential risks or complications associated with the patient's cardiac condition?",
+        "answer": "The primary risk is associated with chronic tachycardia, which may include increased risk of cardiac remodeling, decreased cardiac efficiency, and potential for arrhythmias or other complications if left unmanaged.",
+        "ecg_path": [
+            "files/p1250/p12504140/s40081876/40081876",
+            "files/p1250/p12504140/s46924508/46924508"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What is the clinical significance of the abnormal and borderline ECG classifications in the context of the provided reports?",
+        "answer": "The abnormal classification of the first ECG and borderline classification of the second ECG suggest that while there are concerns with the first ECG, such as possible atrial flutter, the second ECG shows some improvement but still warrants monitoring due to the persistence of nonspecific T wave changes.",
+        "ecg_path": [
+            "files/p1250/p12505868/s44573426/44573426",
+            "files/p1250/p12505868/s42171961/42171961"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given the ECGs were collected 0 and 127 days apart, what trends can be inferred about the patient's cardiac condition?",
+        "answer": "The trend from possible atrial flutter to sinus rhythm with persistent nonspecific T wave changes suggests an overall stabilization or improvement in the patient's cardiac rhythm, but with ongoing need for surveillance of the T wave abnormalities.",
+        "ecg_path": [
+            "files/p1250/p12505868/s44573426/44573426",
+            "files/p1250/p12505868/s42171961/42171961"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How might the management of the patient differ based on the findings of the first ECG compared to the second?",
+        "answer": "Management based on the first ECG might focus on addressing possible atrial flutter and investigating the cause of nonspecific T wave changes, while management based on the second ECG could focus on monitoring the persistence of T wave changes and preventing progression, given the rhythm has normalized.",
+        "ecg_path": [
+            "files/p1250/p12505868/s44573426/44573426",
+            "files/p1250/p12505868/s42171961/42171961"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What additional diagnostic tests or monitoring might be recommended based on these ECG findings?",
+        "answer": "Additional tests such as echocardiography, stress testing, or Holter monitoring might be recommended to further evaluate the cardiac structure and function, especially to investigate the cause and significance of the persistent nonspecific T wave changes.",
+        "ecg_path": [
+            "files/p1250/p12505868/s44573426/44573426",
+            "files/p1250/p12505868/s42171961/42171961"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the time frame between the two ECGs, what factors could contribute to the observed changes or lack thereof in the ECG findings?",
+        "answer": "Factors such as changes in medication, underlying cardiac disease progression, electrolyte imbalances, or the natural history of the conditions suggested by the ECG findings could contribute to the observed changes from possible atrial flutter to sinus rhythm, and the persistence of nonspecific T wave changes over the 127-day period.",
+        "ecg_path": [
+            "files/p1250/p12505868/s44573426/44573426",
+            "files/p1250/p12505868/s42171961/42171961"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the overall trends in the ECG reports from 2123-11-19 to 2127-05-01?",
+        "answer": "The ECG reports show a progression from normal sinus rhythm to persistent normal sinus rhythm with eventual nonspecific anterior T wave changes, indicating a possible development of cardiac abnormalities over time.",
+        "ecg_path": [
+            "files/p1250/p12504554/s49352360/49352360",
+            "files/p1250/p12504554/s49080505/49080505",
+            "files/p1250/p12504554/s42246880/42246880"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given the ECGs were collected 0, 716, and 1258 days apart, what can be inferred about the cardiac health over this period?",
+        "answer": "Over 1258 days, the cardiac health appears to have remained largely stable, with sinus rhythm persisting, but with the emergence of nonspecific T wave changes, suggesting a need for continued monitoring.",
+        "ecg_path": [
+            "files/p1250/p12504554/s49352360/49352360",
+            "files/p1250/p12504554/s49080505/49080505",
+            "files/p1250/p12504554/s42246880/42246880"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the ECG reports from 2123-11-19 and 2125-11-04 compare, considering the 716-day gap?",
+        "answer": "The ECG reports from 2123-11-19 and 2125-11-04 are identical, indicating no significant changes in cardiac rhythm over the 716-day period, suggesting stable cardiac health during this time.",
+        "ecg_path": [
+            "files/p1250/p12504554/s49352360/49352360",
+            "files/p1250/p12504554/s49080505/49080505",
+            "files/p1250/p12504554/s42246880/42246880"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What is the significance of the anterior T wave changes noted in the most recent ECG from 2127-05-01?",
+        "answer": "The anterior T wave changes in the 2127-05-01 ECG are nonspecific, which may indicate early signs of cardiac stress or ischemia, but are not definitive, requiring further investigation or monitoring to determine their clinical significance.",
+        "ecg_path": [
+            "files/p1250/p12504554/s49352360/49352360",
+            "files/p1250/p12504554/s49080505/49080505",
+            "files/p1250/p12504554/s42246880/42246880"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the collection times, what changes have occurred in the ECGs over the 1258 days?",
+        "answer": "Over 1258 days, the primary change observed in the ECGs is the transition from consistently normal findings to the presence of nonspecific anterior T wave changes, suggesting a potential for developing cardiac issues that were not present at the outset.",
+        "ecg_path": [
+            "files/p1250/p12504554/s49352360/49352360",
+            "files/p1250/p12504554/s49080505/49080505",
+            "files/p1250/p12504554/s42246880/42246880"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Provide a detailed analysis of the ECG reports, focusing on the evolution of findings from 2123-11-19 to 2127-05-01.",
+        "answer": "The analysis shows that from 2123-11-19 to 2125-11-04, the ECGs remained normal, but by 2127-05-01, there were nonspecific anterior T wave changes, indicating a possible new development in cardiac health that warrants further evaluation.",
+        "ecg_path": [
+            "files/p1250/p12504554/s49352360/49352360",
+            "files/p1250/p12504554/s49080505/49080505",
+            "files/p1250/p12504554/s42246880/42246880"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How might the findings from these ECGs influence patient management and follow-up strategies?",
+        "answer": "The progression to nonspecific T wave changes in the most recent ECG may prompt closer monitoring, additional diagnostic tests, or adjustments in treatment to address potential underlying cardiac issues, emphasizing the importance of regular follow-up ECGs.",
+        "ecg_path": [
+            "files/p1250/p12504554/s49352360/49352360",
+            "files/p1250/p12504554/s49080505/49080505",
+            "files/p1250/p12504554/s42246880/42246880"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given that the first two ECGs were normal and the third showed nonspecific changes, what are the implications for long-term cardiac health?",
+        "answer": "The emergence of nonspecific anterior T wave changes after a period of normal ECGs suggests that long-term cardiac health may be at risk, necessitating vigilant monitoring and possibly preventive measures to mitigate the development of more significant cardiac abnormalities.",
+        "ecg_path": [
+            "files/p1250/p12504554/s49352360/49352360",
+            "files/p1250/p12504554/s49080505/49080505",
+            "files/p1250/p12504554/s42246880/42246880"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the consistent findings across all three ECGs collected on 2141-10-14, 2141-10-15, and 2141-10-17?",
+        "answer": "All three ECGs show sinus rhythm, anterior T wave changes that are nonspecific, and are classified as borderline ECGs, indicating consistent but nonspecific cardiac patterns over the 3-day period.",
+        "ecg_path": [
+            "files/p1250/p12503815/s43097322/43097322",
+            "files/p1250/p12503815/s42267148/42267148",
+            "files/p1250/p12503815/s48564261/48564261"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the ECGs collected 0, 1, and 3 days apart compare in terms of cardiac rhythm?",
+        "answer": "The ECGs collected over these days all show sinus rhythm, suggesting stability in the cardiac rhythm over the short observation period.",
+        "ecg_path": [
+            "files/p1250/p12503815/s43097322/43097322",
+            "files/p1250/p12503815/s42267148/42267148",
+            "files/p1250/p12503815/s48564261/48564261"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given the ECG reports, what can be inferred about the progression of anterior T wave changes over the 3-day period from 2141-10-14 to 2141-10-17?",
+        "answer": "The anterior T wave changes remain nonspecific across all three ECGs, indicating no significant progression or change in this aspect over the observed period.",
+        "ecg_path": [
+            "files/p1250/p12503815/s43097322/43097322",
+            "files/p1250/p12503815/s42267148/42267148",
+            "files/p1250/p12503815/s48564261/48564261"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What implications do the consistent borderline ECG classifications from 2141-10-14 to 2141-10-17 have for patient monitoring?",
+        "answer": "The consistent borderline classifications suggest a need for continued monitoring to determine if the nonspecific changes evolve into more definitive patterns or if the patient's condition changes, given the current stable but undefined state.",
+        "ecg_path": [
+            "files/p1250/p12503815/s43097322/43097322",
+            "files/p1250/p12503815/s42267148/42267148",
+            "files/p1250/p12503815/s48564261/48564261"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the ECGs were taken 0 and 2 days apart, what does this suggest about the short-term variability of the cardiac findings?",
+        "answer": "The lack of significant change between the ECGs taken 0, 1, and 2 days apart suggests minimal short-term variability in the cardiac findings, indicating a relatively stable cardiac condition over the short term.",
+        "ecg_path": [
+            "files/p1250/p12503815/s43097322/43097322",
+            "files/p1250/p12503815/s42267148/42267148",
+            "files/p1250/p12503815/s48564261/48564261"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How might the findings from these ECGs influence the approach to managing a patient's cardiac health, given the data collected from 2141-10-14 to 2141-10-17?",
+        "answer": "The stable but nonspecific findings might lead to a cautious approach, with a focus on monitoring for any changes in the anterior T wave patterns or the development of more specific cardiac abnormalities, and potentially adjusting management strategies based on any emerging trends.",
+        "ecg_path": [
+            "files/p1250/p12503815/s43097322/43097322",
+            "files/p1250/p12503815/s42267148/42267148",
+            "files/p1250/p12503815/s48564261/48564261"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given that the first ECG was collected on 2141-10-14 and the last on 2141-10-17, what are the potential next steps in patient care based on these consistent but nonspecific findings?",
+        "answer": "Potential next steps could include continued ECG monitoring at regular intervals to watch for any progression of the nonspecific changes, along with other diagnostic tests to better understand the underlying cardiac condition and guide appropriate management.",
+        "ecg_path": [
+            "files/p1250/p12503815/s43097322/43097322",
+            "files/p1250/p12503815/s42267148/42267148",
+            "files/p1250/p12503815/s48564261/48564261"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the limitations of interpreting these ECGs given the short time frame of 3 days from 2141-10-14 to 2141-10-17, and how might longer-term data enhance understanding?",
+        "answer": "The short time frame limits the ability to observe long-term trends or significant changes. Longer-term data would provide a more comprehensive view of the patient's cardiac condition, potentially revealing patterns or changes not apparent in this brief observation period.",
+        "ecg_path": [
+            "files/p1250/p12503815/s43097322/43097322",
+            "files/p1250/p12503815/s42267148/42267148",
+            "files/p1250/p12503815/s48564261/48564261"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the key findings in the initial ECG collected on 2115-12-15?",
+        "answer": "The initial ECG shows sinus rhythm with borderline 1st degree A-V block, inferior infarct of undetermined age, and is classified as abnormal.",
+        "ecg_path": [
+            "files/p1250/p12506247/s48669239/48669239",
+            "files/p1250/p12506247/s45956522/45956522"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the ECG findings change over the approximately 987 days between the two acquisitions?",
+        "answer": "Over 987 days, the ECG changes from sinus rhythm with borderline 1st degree A-V block to sinus bradycardia, with the inferior infarct remaining of undetermined age, indicating some progression but stability in the infarct's appearance.",
+        "ecg_path": [
+            "files/p1250/p12506247/s48669239/48669239",
+            "files/p1250/p12506247/s45956522/45956522"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What can be inferred about the patient's cardiac condition based on the persistence of the inferior infarct of undetermined age in both ECGs?",
+        "answer": "The persistence of the inferior infarct of undetermined age suggests that the infarct may be chronic, and its effects on the heart are long-standing, with the patient's condition possibly stabilized but with ongoing abnormal ECG findings.",
+        "ecg_path": [
+            "files/p1250/p12506247/s48669239/48669239",
+            "files/p1250/p12506247/s45956522/45956522"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Provide a comparative analysis of the two ECG reports, focusing on the evolution of the cardiac rhythm.",
+        "answer": "Comparing the two ECGs, there's a shift from sinus rhythm with borderline 1st degree A-V block to sinus bradycardia, indicating a slowing of the heart rate over time, which could be due to various factors including medication, lifestyle changes, or progression of the underlying cardiac condition.",
+        "ecg_path": [
+            "files/p1250/p12506247/s48669239/48669239",
+            "files/p1250/p12506247/s45956522/45956522"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the time elapsed between the two ECG acquisitions, what potential factors could contribute to the observed changes in the ECG findings?",
+        "answer": "Over the approximately 987 days, factors such as changes in medication, lifestyle modifications, progression of the cardiac disease, or development of new cardiac conditions could contribute to the observed shift from sinus rhythm with borderline 1st degree A-V block to sinus bradycardia.",
+        "ecg_path": [
+            "files/p1250/p12506247/s48669239/48669239",
+            "files/p1250/p12506247/s45956522/45956522"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "The second ECG was collected approximately 987 days after the first. How might the management of the patient's condition have influenced the ECG findings at the time of the second acquisition?",
+        "answer": "The management of the patient's condition, including any interventions or treatments initiated after the first ECG, could have played a role in the observed changes, potentially slowing the heart rate and stabilizing the cardiac rhythm, though the inferior infarct's age remains undetermined.",
+        "ecg_path": [
+            "files/p1250/p12506247/s48669239/48669239",
+            "files/p1250/p12506247/s45956522/45956522"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the implications of the abnormal ECG classification in both reports for the patient's long-term cardiac health?",
+        "answer": "The consistent classification of the ECGs as abnormal, despite changes in the specific findings, suggests ongoing cardiac issues that require monitoring and possibly intervention to prevent further deterioration of the patient's cardiac health.",
+        "ecg_path": [
+            "files/p1250/p12506247/s48669239/48669239",
+            "files/p1250/p12506247/s45956522/45956522"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given the ECG reports and the time frame of approximately 987 days between them, what would be important considerations for the next steps in the patient's care?",
+        "answer": "Important considerations for the next steps in the patient's care would include continued monitoring of the cardiac rhythm and the inferior infarct, assessment for any new or worsening symptoms, and evaluation of the effectiveness of current treatments, with potential adjustments to manage the patient's condition optimally.",
+        "ecg_path": [
+            "files/p1250/p12506247/s48669239/48669239",
+            "files/p1250/p12506247/s45956522/45956522"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the key differences between the two ECG reports collected on 2142-08-16 and 2149-12-18?",
+        "answer": "The first ECG shows sinus bradycardia with a normal ECG except for rate, while the second ECG collected 2680 days later shows sinus rhythm with nonspecific inferior T wave changes and a borderline ECG.",
+        "ecg_path": [
+            "files/p1250/p12506269/s47710774/47710774",
+            "files/p1250/p12506269/s45879545/45879545"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the ECGs collected 0 days ago and 2680 days ago compare in terms of cardiac rhythm?",
+        "answer": "The ECG collected 0 days ago shows a normal sinus rhythm, while the ECG collected 2680 days ago shows sinus bradycardia, indicating a change in heart rate over time.",
+        "ecg_path": [
+            "files/p1250/p12506269/s47710774/47710774",
+            "files/p1250/p12506269/s45879545/45879545"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What can be inferred about the patient's cardiac health based on the ECG reports and the time elapsed between them?",
+        "answer": "The patient's cardiac health has shown some changes, with the initial ECG indicating bradycardia and the later ECG showing nonspecific T wave changes, suggesting potential underlying cardiac issues that have developed over the 2680-day period.",
+        "ecg_path": [
+            "files/p1250/p12506269/s47710774/47710774",
+            "files/p1250/p12506269/s45879545/45879545"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "The first ECG was collected on 2142-08-16, and the second was collected on 2149-12-18. What changes in the patient's condition can be identified?",
+        "answer": "Between 2142-08-16 and 2149-12-18, the patient's ECG changed from sinus bradycardia to sinus rhythm with inferior T wave changes, indicating some level of cardiac progression or development of new conditions.",
+        "ecg_path": [
+            "files/p1250/p12506269/s47710774/47710774",
+            "files/p1250/p12506269/s45879545/45879545"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the time frame of 2680 days between the two ECGs, what potential factors could have contributed to the observed changes in the ECG reports?",
+        "answer": "Over 2680 days, various factors such as lifestyle changes, development of new medical conditions, or progression of existing conditions could have contributed to the changes observed in the ECG reports, including the shift from bradycardia to normal sinus rhythm and the appearance of nonspecific T wave changes.",
+        "ecg_path": [
+            "files/p1250/p12506269/s47710774/47710774",
+            "files/p1250/p12506269/s45879545/45879545"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How might the patient's treatment plan be adjusted based on the comparison of the two ECG reports collected 2680 days apart?",
+        "answer": "The treatment plan might be adjusted to address the new findings of nonspecific inferior T wave changes, potentially including further diagnostic testing, monitoring, or interventions to manage any underlying conditions contributing to these changes, while also considering the patient's overall health context over the 2680-day period.",
+        "ecg_path": [
+            "files/p1250/p12506269/s47710774/47710774",
+            "files/p1250/p12506269/s45879545/45879545"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the implications of the ECG collected 2680 days after the initial one showing a borderline ECG with nonspecific T wave changes?",
+        "answer": "The implications include the need for closer monitoring, potential additional testing to determine the cause of the T wave changes, and consideration of how these changes might impact the patient's health and treatment plan in the short and long term, given the evolution of the ECG findings over nearly 7.5 years.",
+        "ecg_path": [
+            "files/p1250/p12506269/s47710774/47710774",
+            "files/p1250/p12506269/s45879545/45879545"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given the ECG reports and the significant time gap between them, what steps would be necessary to further evaluate and manage the patient's cardiac health?",
+        "answer": "Further evaluation would involve detailed medical history, physical examination, additional diagnostic tests such as echocardiography or stress tests, and potentially adjusting the treatment plan based on these findings to manage any identified cardiac issues, considering the patient's condition has evolved from sinus bradycardia to a more complex picture with nonspecific T wave changes over 2680 days.",
+        "ecg_path": [
+            "files/p1250/p12506269/s47710774/47710774",
+            "files/p1250/p12506269/s45879545/45879545"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the key findings in the provided ECG reports and how do they relate to each other?",
+        "answer": "The first ECG shows sinus rhythm, abnormal R-wave progression, left ventricular hypertrophy, and prolonged QT interval, while the second ECG, collected on the same day, indicates sinus rhythm, atrial premature complex, probable left atrial enlargement, left axis deviation, and old posterior infarct, suggesting a complex cardiac condition with multiple abnormalities.",
+        "ecg_path": [
+            "files/p1250/p12504150/s44615007/44615007",
+            "files/p1250/p12504150/s47446107/47446107"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the ECG reports from 2117-12-26 compare in terms of cardiac rhythm and structural abnormalities?",
+        "answer": "Both ECGs from 2117-12-26 show sinus rhythm, but the first report indicates left ventricular hypertrophy and abnormal R-wave progression, while the second report suggests probable left atrial enlargement and left axis deviation, indicating different structural concerns.",
+        "ecg_path": [
+            "files/p1250/p12504150/s44615007/44615007",
+            "files/p1250/p12504150/s47446107/47446107"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What is the clinical significance of the prolonged QT interval in the first ECG report and how might it relate to the findings in the second report?",
+        "answer": "The prolonged QT interval in the first ECG report is a significant finding that may indicate an increased risk of arrhythmias, and when considered alongside the second report's findings of atrial premature complex and old posterior infarct, it suggests a need for careful monitoring and management of cardiac rhythm and potential risks.",
+        "ecg_path": [
+            "files/p1250/p12504150/s44615007/44615007",
+            "files/p1250/p12504150/s47446107/47446107"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given that both ECGs were collected on the same day, 2117-12-26, what might account for the differences in the reported findings?",
+        "answer": "The differences in findings between the two ECGs collected on 2117-12-26 could be due to various factors such as differences in ECG lead placement, variations in cardiac condition at the time of each ECG, or potential errors in interpretation, highlighting the importance of considering multiple factors when evaluating ECG reports.",
+        "ecg_path": [
+            "files/p1250/p12504150/s44615007/44615007",
+            "files/p1250/p12504150/s47446107/47446107"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What potential trends or changes might be expected in future ECGs based on the provided reports?",
+        "answer": "Future ECGs might show progression or stabilization of the left ventricular hypertrophy, resolution or persistence of the atrial premature complexes, and potential changes in the QT interval, depending on underlying conditions and interventions, requiring ongoing monitoring and assessment.",
+        "ecg_path": [
+            "files/p1250/p12504150/s44615007/44615007",
+            "files/p1250/p12504150/s47446107/47446107"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the ECG reports were collected with no time interval between them, how might the findings inform immediate clinical decisions?",
+        "answer": "The findings from both ECGs, considering they were collected on the same day, 2117-12-26, with no time interval, suggest the need for immediate clinical evaluation and potential intervention to address the complex cardiac condition, including consideration of the risks associated with prolonged QT interval and the presence of old posterior infarct.",
+        "ecg_path": [
+            "files/p1250/p12504150/s44615007/44615007",
+            "files/p1250/p12504150/s47446107/47446107"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the reports of left ventricular hypertrophy and probable left atrial enlargement impact the overall interpretation of the cardiac condition?",
+        "answer": "The combination of left ventricular hypertrophy from the first ECG and probable left atrial enlargement from the second ECG, both from 2117-12-26, indicates a significant cardiac condition with both ventricular and atrial involvement, suggesting a comprehensive approach to management and monitoring.",
+        "ecg_path": [
+            "files/p1250/p12504150/s44615007/44615007",
+            "files/p1250/p12504150/s47446107/47446107"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given the complexity of the findings, what additional diagnostic steps or monitoring might be warranted based on these ECG reports?",
+        "answer": "Additional diagnostic steps such as echocardiography, Holter monitoring, or cardiac MRI might be necessary to further evaluate the left ventricular hypertrophy, probable left atrial enlargement, and old posterior infarct, as well as to monitor the prolonged QT interval and atrial premature complexes, to guide comprehensive management and reduce risk.",
+        "ecg_path": [
+            "files/p1250/p12504150/s44615007/44615007",
+            "files/p1250/p12504150/s47446107/47446107"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the common findings among all the ECG reports and how do they relate to each other?",
+        "answer": "All ECGs show sinus rhythm, and most have poor R wave progression and inferior/lateral ST-T changes, indicating a consistent pattern of nonspecific changes, possibly due to a normal variant, with the exception of the last ECG which also shows a 1st degree A-V block.",
+        "ecg_path": [
+            "files/p1250/p12504496/s49745472/49745472",
+            "files/p1250/p12504496/s46258781/46258781",
+            "files/p1250/p12504496/s43226371/43226371",
+            "files/p1250/p12504496/s49981809/49981809",
+            "files/p1250/p12504496/s41040922/41040922"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given the ECGs were taken on 2125-04-14, 2126-06-22, 2126-06-22, 2126-06-22, and 2126-07-03, describe the evolution of the electrocardiogram findings over this period.",
+        "answer": "From 2125-04-14 to 2126-06-22, the ECGs show consistent sinus rhythm with nonspecific ST-T changes, and by 2126-07-03, a 1st degree A-V block is noted, indicating a possible progression or new development in the cardiac condition.",
+        "ecg_path": [
+            "files/p1250/p12504496/s49745472/49745472",
+            "files/p1250/p12504496/s46258781/46258781",
+            "files/p1250/p12504496/s43226371/43226371",
+            "files/p1250/p12504496/s49981809/49981809",
+            "files/p1250/p12504496/s41040922/41040922"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "The first ECG was collected 433 days before the second, third, and fourth, and 445 days before the fifth. What changes or consistencies are observed over this timeframe?",
+        "answer": "Over 433 days, the ECGs transition from showing only nonspecific lateral T wave changes to consistent findings of poor R wave progression and nonspecific inferior/lateral ST-T changes, with the addition of a 1st degree A-V block by day 445, suggesting a gradual development of conduction abnormalities.",
+        "ecg_path": [
+            "files/p1250/p12504496/s49745472/49745472",
+            "files/p1250/p12504496/s46258781/46258781",
+            "files/p1250/p12504496/s43226371/43226371",
+            "files/p1250/p12504496/s49981809/49981809",
+            "files/p1250/p12504496/s41040922/41040922"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the ECG reports from 2126-06-22 compare to the one from 2125-04-14, and what might this indicate?",
+        "answer": "The ECGs from 2126-06-22 are similar in showing sinus rhythm and nonspecific ST-T changes, but differ from the 2125-04-14 ECG by the presence of poor R wave progression, suggesting a possible development or recognition of a normal variant condition over time.",
+        "ecg_path": [
+            "files/p1250/p12504496/s49745472/49745472",
+            "files/p1250/p12504496/s46258781/46258781",
+            "files/p1250/p12504496/s43226371/43226371",
+            "files/p1250/p12504496/s49981809/49981809",
+            "files/p1250/p12504496/s41040922/41040922"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the ECGs were taken at the specified times, what potential factors could contribute to the observed changes and consistencies?",
+        "answer": "Factors such as changes in physical condition, development of cardiac conditions, or improvements in ECG interpretation could contribute to the observed evolution from nonspecific changes to the inclusion of a 1st degree A-V block, alongside consistent findings of poor R wave progression and ST-T changes.",
+        "ecg_path": [
+            "files/p1250/p12504496/s49745472/49745472",
+            "files/p1250/p12504496/s46258781/46258781",
+            "files/p1250/p12504496/s43226371/43226371",
+            "files/p1250/p12504496/s49981809/49981809",
+            "files/p1250/p12504496/s41040922/41040922"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given the borderline or abnormal classifications of these ECGs, what implications might this have for patient management and follow-up?",
+        "answer": "The borderline or abnormal classifications suggest the need for careful monitoring and possibly further diagnostic testing to clarify the significance of the observed changes, especially the development of a 1st degree A-V block, to guide appropriate management and prevent potential complications.",
+        "ecg_path": [
+            "files/p1250/p12504496/s49745472/49745472",
+            "files/p1250/p12504496/s46258781/46258781",
+            "files/p1250/p12504496/s43226371/43226371",
+            "files/p1250/p12504496/s49981809/49981809",
+            "files/p1250/p12504496/s41040922/41040922"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "The ECGs from 2126-06-22 are nearly identical. What might this indicate about the cardiac condition during this period?",
+        "answer": "The identical ECGs from 2126-06-22 suggest stability in the cardiac condition at that time, with consistent findings of sinus rhythm, poor R wave progression, and nonspecific ST-T changes, indicating no acute changes or developments in the condition on that day.",
+        "ecg_path": [
+            "files/p1250/p12504496/s49745472/49745472",
+            "files/p1250/p12504496/s46258781/46258781",
+            "files/p1250/p12504496/s43226371/43226371",
+            "files/p1250/p12504496/s49981809/49981809",
+            "files/p1250/p12504496/s41040922/41040922"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How might the findings from these ECGs influence the interpretation of future electrocardiograms, especially considering the time elapsed between them?",
+        "answer": "Future ECGs should be interpreted in the context of the established baseline of sinus rhythm with nonspecific ST-T changes and poor R wave progression, with particular attention to any changes in the degree of A-V block or development of new abnormalities, considering the timeframe and any intervening cardiac events or treatments.",
+        "ecg_path": [
+            "files/p1250/p12504496/s49745472/49745472",
+            "files/p1250/p12504496/s46258781/46258781",
+            "files/p1250/p12504496/s43226371/43226371",
+            "files/p1250/p12504496/s49981809/49981809",
+            "files/p1250/p12504496/s41040922/41040922"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "What are the detailed reports for each of the four electrocardiograms collected on 2144-02-17, 2144-02-18 (twice), and 2144-02-20?",
+        "answer": "ECG1 (2144-02-17): Sinus bradycardia, normal ECG except for rate. ECG2 (2144-02-18): Sinus bradycardia, borderline first degree A-V block, borderline ECG. ECG3 (2144-02-18): Warning: Data quality may affect computer interpretation!!, sinus bradycardia, borderline first degree A-V block, borderline ECG. ECG4 (2144-02-20): Sinus rhythm, right bundle branch block, abnormal ECG.",
+        "ecg_path": [
+            "files/p1250/p12503687/s42369627/42369627",
+            "files/p1250/p12503687/s46243635/46243635",
+            "files/p1250/p12503687/s42336167/42336167",
+            "files/p1250/p12503687/s41436009/41436009"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "How do the ECGs collected on 2144-02-17 and 2144-02-18 compare in terms of heart rhythm and potential issues?",
+        "answer": "The ECGs from 2144-02-17 and 2144-02-18 both show sinus bradycardia, but the ones from 2144-02-18 also indicate a borderline first degree A-V block, suggesting a potential issue with the electrical conduction system of the heart.",
+        "ecg_path": [
+            "files/p1250/p12503687/s42369627/42369627",
+            "files/p1250/p12503687/s46243635/46243635",
+            "files/p1250/p12503687/s42336167/42336167",
+            "files/p1250/p12503687/s41436009/41436009"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Given the ECGs were collected 0, 0, 0, and 3 days apart, what changes or consistencies are observed in the heart's rhythm and condition over this period?",
+        "answer": "Over the 3-day period, the heart rhythm shifts from sinus bradycardia to sinus rhythm, and there's an introduction of a right bundle branch block by the last ECG, indicating changes in the heart's electrical conduction.",
+        "ecg_path": [
+            "files/p1250/p12503687/s42369627/42369627",
+            "files/p1250/p12503687/s46243635/46243635",
+            "files/p1250/p12503687/s42336167/42336167",
+            "files/p1250/p12503687/s41436009/41436009"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    },
+    {
+        "question": "Considering the warning about data quality in the third ECG, how might this affect the interpretation of the results from the ECGs collected on 2144-02-18?",
+        "answer": "The warning about data quality in the third ECG collected on 2144-02-18 might lead to cautious interpretation of the borderline first degree A-V block, considering it could be an artifact rather than an actual cardiac condition.",
+        "ecg_path": [
+            "files/p1250/p12503687/s42369627/42369627",
+            "files/p1250/p12503687/s46243635/46243635",
+            "files/p1250/p12503687/s42336167/42336167",
+            "files/p1250/p12503687/s41436009/41436009"
+        ],
+        "dataset": "mimic",
+        "task": "multi"
+    }
+]
