@@ -14,6 +14,14 @@ pip install -r requirements.txt
 + The preprocessed QA data files are organized and stored in `data/stage1.json`, `data/stage2.json`, and `data/stage3.json`.
 + The ECG data still needs to be downloaded from the corresponding official website as mentioned in the main text.
 
+## Pre-trained Models
+
+We have released the **pre-trained ECG encoder trained on MIMIC** as well as the **Stage 3 checkpoint of anyECG-chat** on Hugging Face 🤗.
+
+👉 Hugging Face repository:  
+https://huggingface.co/cucl2/anyECG-chat
+
+
 ## Training anyECG-chat
 
 You can either run `bash train.sh` to train all three stages at once or execute the following commands step by step:
