@@ -13,6 +13,7 @@ pip install -r requirements.txt
 ## Data
 + The preprocessed QA data files are organized and stored in `data/stage1.json`, `data/stage2.json`, and `data/stage3.json`.
 + The ECG data still needs to be downloaded from the corresponding official website as mentioned in the main text.
++ The complete training QA data can be downloaded here: https://huggingface.co/datasets/cucl2/anyECG. You can use the "task" key to divide the dataset into three training phases.
 
 ## Pre-trained Models
 
