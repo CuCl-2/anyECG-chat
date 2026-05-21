@@ -185,6 +185,27 @@ class ECG_Language_Model(nn.Module):
         inputs_embeds, attention_mask, labels = self.get_input_embeds(ecgs, messages)
         return self.language_model(inputs_embeds=inputs_embeds, attention_mask=attention_mask, labels=labels)
 
+    def ecg_chat(self, ecgs, messages, temperature=0.6):
+        inputs_embeds, attention_mask, _ = self.get_input_embeds(ecgs, messages, add_generation_prompt=True)
+
+        terminators = [
+            self.tokenizer.eos_token_id,
+            self.tokenizer.convert_tokens_to_ids("<|eot_id|>")
+        ]
+
+        outputs = self.language_model.generate(
+            inputs_embeds=inputs_embeds,
+            max_new_tokens=256,
+            eos_token_id=terminators,
+            do_sample=True,
+            temperature=temperature,
+            top_p=0.9,
+            pad_token_id=self.tokenizer.eos_token_id,
+            attention_mask=attention_mask
+        )
+
+        return self.tokenizer.batch_decode(outputs, skip_special_tokens=True)
+
 if __name__ == '__main__':
     ecg_language_model = ECG_Language_Model().cuda()
     messages = [
